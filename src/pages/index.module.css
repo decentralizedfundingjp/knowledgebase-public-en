@@ -8,11 +8,16 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  min-height: calc(100vh - var(--ifm-navbar-height));
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+    min-height: calc(100vh - var(--ifm-navbar-height));
   }
 }
 
@@ -20,4 +25,5 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 3rem;
 }
