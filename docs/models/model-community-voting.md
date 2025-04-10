@@ -1,150 +1,144 @@
 ---
-title: コミュニティ投票
+title: Community Voting
 sidebar_position: 4
-description: コミュニティ投票の概要、実装手順、ツール、成功事例について説明します。
+description: Overview, implementation steps, tools, and success stories of Community Voting.
 ---
 
-# コミュニティ投票
+# Community Voting
 
-コミュニティ投票は、コミュニティメンバーが直接プロジェクトを評価し、資金配分を決定する仕組みです。
+#### Summary
 
-<div style={{textAlign: 'center'}}>
-  <img src="/img/models/communityvoting.jpg" alt="コミュニティ投票の概要" style={{maxWidth: '100%'}} />
-</div>
+**Practitioners**
+* Local governments
+* Community organizations
+* Non-profit organizations
 
-#### 概要
+**Purpose**
+* Enable direct participation in decision-making by local residents and stakeholders
+* Establish transparent fund allocation processes
+* Enhance community ownership and participation motivation
 
-**実施主体**
-* 地方自治体
-* コミュニティ組織
-* 非営利団体
-
-**目的**
-* 地域住民やステークホルダーの直接的な意思決定参加を実現
-* 透明性の高い資金配分プロセスの確立
-* コミュニティの当事者意識と参加意欲の向上
-
-**必要なリソース**
-* 投票プラットフォーム
-  * Snapshot等の透明性の高いツール
-* プロジェクト提案の管理システム
-* コミュニティエンゲージメントのためのリソース
+**Required Resources**
+* Voting platform
+  * Transparent tools such as Snapshot
+* Project proposal management system
+* Resources for community engagement
 
 ***
 
-#### 詳細説明
+#### Overview
 
-コミュニティ投票は、資金配分の決定権を直接コミュニティメンバーに委ねる方式です。プロジェクト候補の中から、投票を通じて優先順位や配分額を決定します。
+Community voting is a method that delegates fund allocation decisions directly to community members. Priority and allocation amounts are determined through voting among project candidates.
 
-**特徴**
-* 直接民主主義的なアプローチによる意思決定
-* 透明性の高いプロセス
-* コミュニティの主体的な参加を促進
-
-***
-
-#### メリット
-
-* 当事者意識の向上
-  * 直接的な参加により、コミュニティメンバーの当事者意識が高まる
-* ニーズの的確な把握
-  * 実際の利用者や受益者の声を直接反映できる
-* 透明性の確保
-  * 投票プロセスと結果が公開され、説明責任を果たしやすい
+**Features**
+* Decision-making through a direct democratic approach
+* Highly transparent process
+* Promotes active community participation
 
 ***
 
-#### 成功事例
+#### Benefits
 
-**やまこしプロジェクト（新潟県長岡市）**
-
-**背景**
-* 地域活性化のための資金配分にコミュニティ投票を導入
-* NFTとSnapshotを活用した投票システムを実装
-
-**実施プロセス**
-* プロジェクト候補の募集と審査
-* NFTホルダーによる投票
-* 結果に基づく資金配分
-
-**成果**
-* 地域住民の積極的な参加
-* 透明性の高い意思決定の実現
-* 地域のニーズに即したプロジェクトの選定
+* Enhanced Ownership
+  * Direct participation increases community members' sense of ownership
+* Accurate Needs Assessment
+  * Can directly reflect the voices of actual users and beneficiaries
+* Ensuring Transparency
+  * Voting processes and results are public, making it easier to maintain accountability
 
 ***
 
-#### 実装手順
+#### Success Stories
 
-1. 準備フェーズ
-   * 投票の目的と範囲の設定
-   * 投票プラットフォームの選定
-   * 投票ルールの設計
+**Yamakoshi Project (Nagaoka City, Niigata Prefecture)**
 
-2. プロジェクト募集
-   * 提案フォーマットの作成
-   * 応募受付と一次審査
-   * 提案内容の公開
+**Background**
+* Introduced community voting for fund allocation in regional revitalization
+* Implemented a voting system utilizing NFTs and Snapshot
 
-3. 投票実施
-   * 投票者の登録
-   * 投票期間の設定
-   * 投票の実施と集計
+**Implementation Process**
+* Recruitment and review of project candidates
+* Voting by NFT holders
+* Fund allocation based on results
 
-4. 結果の反映
-   * 結果の公表
-   * 資金配分の実行
-   * フィードバックの収集
+**Outcomes**
+* Active participation by local residents
+* Realization of transparent decision-making
+* Selection of projects that meet regional needs
 
 ***
 
-#### 成功のポイント
+#### Implementation Steps
 
-* 参加のハードルを下げる
-  * 使いやすい投票インターフェース
-  * 十分な情報提供
-  * 技術的サポート
+1. Preparation Phase
+   * Setting voting objectives and scope
+   * Selecting voting platform
+   * Designing voting rules
 
-* コミュニケーションの充実
-  * 提案者と投票者の対話機会
-  * 進捗状況の定期的な共有
-  * フィードバックの収集と反映
+2. Project Recruitment
+   * Creating proposal format
+   * Accepting applications and initial screening
+   * Publishing proposal contents
 
-* 透明性の確保
-  * プロセスの可視化
-  * 結果の公開
-  * 説明責任の履行
+3. Voting Implementation
+   * Voter registration
+   * Setting voting period
+   * Conducting and tallying votes
+
+4. Results Reflection
+   * Publishing results
+   * Executing fund allocation
+   * Collecting feedback
 
 ***
 
-#### ツール
+#### Keys to Success
+
+* Lower Participation Barriers
+  * User-friendly voting interface
+  * Sufficient information provision
+  * Technical support
+
+* Enhanced Communication
+  * Dialogue opportunities between proposers and voters
+  * Regular progress sharing
+  * Feedback collection and reflection
+
+* Ensure Transparency
+  * Process visualization
+  * Result publication
+  * Accountability fulfillment
+
+***
+
+#### Tools
 
 * Snapshot
-  * 分散型の投票プラットフォーム
-  * NFTやトークンによる投票権の管理が可能
+  * Decentralized voting platform
+  * Capable of managing voting rights through NFTs and tokens
 * Tally
-  * カスタマイズ可能な投票システム
+  * Customizable voting system
 * OpenCollective
-  * 透明性の高い資金管理と投票機能を提供
+  * Provides transparent fund management and voting functions
 
 ***
 
-#### 社会課題解決のためのローカライズポイント
+#### Localization Points for Social Issue Resolution
 
-**デジタルデバイドへの対応**
-* 高齢者や技術に不慣れな層への配慮
-  * 対面での説明会開催
-  * 紙ベースの投票との併用
-  * サポートデスクの設置
+**Addressing Digital Divide**
+* Consideration for elderly and technically unfamiliar groups
+  * Holding in-person explanation meetings
+  * Combining with paper-based voting
+  * Setting up support desk
 
-**地域特性の考慮**
-* 地域コミュニティの特性に応じた設計
-  * 既存の住民組織との連携
-  * 地域の意思決定文化の尊重
-  * 季節性や地域行事への配慮
+**Considering Regional Characteristics**
+* Design according to local community characteristics
+  * Collaboration with existing resident organizations
+  * Respect for local decision-making culture
+  * Consideration of seasonality and local events
 
-**持続可能性の確保**
-* 継続的な運営のための工夫
-  * 運営コストの最適化
-  * 地域人材の育成
-  * 成功事例の共有と改善 
+**Ensuring Sustainability**
+* Innovations for continuous operation
+  * Optimization of operating costs
+  * Development of local human resources
+  * Sharing and improving success stories 

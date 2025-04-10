@@ -1,102 +1,37 @@
 ---
-title: ガイドブックの使い方
-sidebar_position: 6
-description: 分散型資金調達ナレッジベースの効果的な活用方法について説明します
+sidebar_position: 4
 ---
 
-# ガイドブックの使い方
+# Guidebook Usage
 
-## 基本的な構成
+This book is structured as a practical guide to help readers understand decentralized funding and incorporate it into their activities. Below is the book's structure and the purpose of each chapter.
 
-このナレッジベースは、以下のような構成になっています：
+**Book Structure and Purpose**
 
-1. **はじめに**
-   - ナレッジベースの概要と目的
-   - 分散型資金調達の重要性
+1. Introduction
 
-2. **背景**
-   - 日本のソーシャルセクターにおける課題
-   - 分散型資金分配の可能性
+* Explains the background of the necessity and potential of decentralized funding.
+* Shares why readers should recognize and address these challenges.
 
-3. **モデル**
-   - クアドラティック・ファンディング
-   - クアドラティック・ボーティング
-   - コミュニティ・ボーティング
-   - デリゲーテッド・レビュー
+2. Significance and Purpose of Decentralized Funding
 
-4. **事例研究**
-   - 国内外の実践事例
-   - 各モデルの具体的な活用方法
+* Provides content to learn from the basics about mechanisms that enhance transparency and fairness.
+* Shows specific implementation effects in Japan's social sector.
 
-5. **ブロックチェーン**
-   - 技術的な実装方法
-   - 必要なツールやリソース
+3. Models and Practices of Decentralized Funding
 
-6. **課題**
-   - 法的な課題
-   - 運用上の課題
+* Compares main models such as Quadratic Funding, community voting, and delegated review committees, explaining applicable scenarios and required resources.
+* Provides concrete images for implementation through practical examples and specific steps.
 
-7. **ビジョン**
-   - 長期的な展望
-   - 今後の発展方向
+4. Model Comparison and Implementation Strategy
 
-## 効果的な活用方法
+* Compares advantages and challenges of each model, providing guidelines for readers to choose models suitable for their organizations.
 
-### 1. 目的に応じた読み方
+5. Guide for Implementation and Operation
 
-- **全体像の把握**
-  - 「はじめに」から順に読み進める
-  - 各セクションの概要を理解する
+* Specifically shows legal and technical challenges and methods to address them.
+* Introduces practical tools and templates for successful decentralized funding.
 
-- **特定の課題解決**
-  - 関連する事例研究を参照
-  - 類似の課題に対する解決策を探る
+6. Appendix
 
-- **実装の準備**
-  - ブロックチェーンセクションを参照
-  - 必要な技術やツールを確認
-
-### 2. 事例研究の活用
-
-- **類似事例の分析**
-  - 自組織の状況に近い事例を選ぶ
-  - 成功要因と課題を抽出
-
-- **モデルの応用**
-  - 事例で使用されたモデルを理解
-  - 自組織の状況に合わせて調整
-
-### 3. コミュニティとの連携
-
-- **情報の共有**
-  - 関連するセクションをチームで共有
-  - ディスカッションの材料として活用
-
-- **フィードバックの提供**
-  - 実践を通じて得られた知見を共有
-  - ナレッジベースの改善に貢献
-
-## 継続的な活用
-
-1. **定期的な確認**
-   - 新しい事例や情報の追加を確認
-   - 最新の知見を取り入れる
-
-2. **実践と改善**
-   - 学んだ内容を実際のプロジェクトに適用
-   - 結果をフィードバックとして共有
-
-3. **コミュニティ参加**
-   - 他のユーザーとの情報交換
-   - 共同での改善提案
-
-## 注意点
-
-- 各事例は特定の文脈で実施されたものであり、そのまま適用できない場合があります
-- 法的な制約や技術的な要件は、地域や組織によって異なります
-- 実装前には、必ず専門家の助言を求めることをお勧めします
-
-## サポート
-
-- 質問や提案がある場合は、[GitHub Issues](https://github.com/decentralizedfundingjp/knowledgebase-public/issues)に投稿してください
-- 編集への参加方法は、「ナレッジベースの編纂にご協力いただける方へ」を参照してください 
+* Includes glossary, reference materials, and tool lists, providing resources that readers can immediately utilize. 

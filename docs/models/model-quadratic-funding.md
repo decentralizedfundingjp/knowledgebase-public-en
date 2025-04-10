@@ -1,147 +1,125 @@
 ---
-title: Quadratic Funding（QF）
+title: Quadratic Funding (QF)
 sidebar_position: 2
-description: Quadratic Funding（QF）の仕組みと特徴について説明します
+description: Overview, implementation steps, tools, and success stories of Quadratic Funding.
 ---
 
-# Quadratic Funding（QF）
+# Quadratic Funding (QF)
 
-Quadratic Funding（QF）は、寄付者の意思を反映しながら、より公平な資金分配を実現する仕組みです。
+#### Summary
 
-<div style={{textAlign: 'center'}}>
-  <img src="/img/models/qfoverview.jpg" alt="Quadratic Fundingの概要" style={{maxWidth: '100%'}} />
-</div>
+**Practitioners**
+* Large-scale funders such as foundations, funds, corporate CSR departments, and local governments
 
-#### 概要
+**Purpose**
+* Attract public donations using funds as seed money
+* Provide funding to projects that address actual citizen needs
+* Encourage citizen participation through direct involvement
 
-**実施主体**
-* 財団、基金、企業のCSR部門、地方自治体などの大規模な資金提供者
-
-**目的**
-* 資金をシードマネーとして活用し、一般からの寄付を集める
-* 市民の実際のニーズに応えるプロジェクトに資金を提供
-* 直接的な参加を通じて市民参加を促進
-
-**必要なリソース**
-* 最低10万円の予算
-* プロジェクト申請者との協力体制
-* 潜在的な寄付者へのリーチ手段
+**Required Resources**
+* Minimum budget of 100,000 yen
+* Ability to collaborate with project applicants
+* Means to reach potential donors
 
 ***
 
-#### 詳細説明
+#### Overview
 
-クアドラティックファンディング（QF）は、寄付額の平方根に基づいて影響力を計算し、マッチングファンドから追加資金を配分する資金配分モデルです。特に、多くの小口寄付を集めたプロジェクトの影響力を相対的に高める設計が特徴です。これにより、大口寄付者だけでなく、小口寄付者も資金配分に大きな影響を与えることができる仕組みを実現しています。
+Quadratic Funding (QF) is a funding distribution model that calculates influence based on the square root of donation amounts and allocates additional funds from matching funds. It is particularly characterized by its design to relatively increase the influence of projects that gather many small donations. This creates a mechanism where not only large donors but also small donors can have a significant impact on fund distribution.
 
-**特徴**
-* 寄付額に基づく重み付けを行いつつ、平方根を取ることで小口寄付の影響力を増幅
-* マッチングファンドを通じて、より多くの支持を集めたプロジェクトに資金を集中配分
-* テクノロジーを活用して透明性と公平性を確保
-
-***
-
-#### メリット
-
-* 小口寄付の重視
-  * 多くの寄付者から支持を集めたプロジェクトに資金が集中する仕組みにより、小さな声を増幅
-* 寄付市場の活性化
-  * 公平性と透明性により寄付者の信頼を高め、新規寄付者の参加を促進
-* イノベーションの支援
-  * 従来の資金配分では支援を受けにくいニッチなプロジェクトや新しいアイデアに資金が届く可能性を高める
+**Features**
+* Weighting based on donation amounts, but amplifying the influence of small donations by taking the square root
+* Concentrated allocation of funds to projects that gather more support through matching funds
+* Ensuring transparency and fairness through technology
 
 ***
 
-#### 成功事例
+#### Benefits
 
-**UNICEF × Gitcoin：社会課題解決のためのQF実装**
-
-**背景**
-* UNICEFがGitcoinと協力してQFを活用したパイロットプログラムを実施
-
-**実施プロセス**
-* プロジェクト選定
-  * ブロックチェーンとAIを活用した10の社会貢献プロジェクトを選定
-* マッチングファンドの活用
-  * UNICEFが50 ETHをマッチングプールとして拠出
-* 寄付結果
-  * 個人からの寄付：15,500件の寄付が集まり、67.5 ETHと15,000 DAIを調達
-  * 寄付者数と寄付額のバランスに基づいて最終的な配分を決定
+* Emphasizing Small Donations
+  * The mechanism that concentrates funds on projects supported by many donors helps amplify small voices
+* Activating the Donation Market
+  * Fairness and transparency increase donor trust and encourage new donors to participate
+* Supporting Innovation
+  * Increases the possibility of funding reaching niche projects and new ideas that might not receive support through traditional funding distribution
 
 ***
 
-#### 実装手順
+#### Success Stories
 
-1. マッチングプールの準備
-   * 資金テーマ（環境、子どもの貧困、デジタル公共財など）と対象地域を明確化
-   * マッチングファンドを形成
+**UNICEF × Gitcoin: QF Implementation for Social Issue Resolution**
 
-<div style={{textAlign: 'center'}}>
-  <img src="/img/models/qfstep1.jpg" alt="マッチングプールの準備" style={{maxWidth: '100%'}} />
-</div>
+**Background**
+* UNICEF implemented a pilot program using QF in collaboration with Gitcoin
 
-2. 申請者募集
-   * 申請ガイドラインを設定し、申請団体を募集
-
-<div style={{textAlign: 'center'}}>
-  <img src="/img/models/qfstep2.jpg" alt="申請者募集" style={{maxWidth: '100%'}} />
-</div>
-
-3. 寄付の収集
-   * クラウドファンディング的な形式で一般からの寄付を集める
-   * 寄付者が価値を感じる団体に自由な金額で寄付可能
-
-<div style={{textAlign: 'center'}}>
-  <img src="/img/models/qfstep3.jpg" alt="寄付の収集" style={{maxWidth: '100%'}} />
-</div>
-
-4. マッチングファンドの配分
-   * 寄付の平方根から計算された重み付け金額に基づいて、各受給者にマッチングファンドを配分
-
-<div style={{textAlign: 'center'}}>
-  <img src="/img/models/qfstep4.jpg" alt="マッチングファンドの配分" style={{maxWidth: '100%'}} />
-</div>
+**Implementation Process**
+* Project Selection
+  * Selected 10 social contribution projects utilizing blockchain and AI
+* Matching Fund Utilization
+  * UNICEF contributed 50 ETH as a matching pool
+* Donation Results
+  * Individual donations: 15,500 donations collected, raising 67.5 ETH and 15,000 DAI
+  * Final allocation was determined based on the balance between the number of donors and donation amounts
 
 ***
 
-#### ツール
+#### Implementation Steps
+
+1. Matching Pool Preparation
+   * Clearly define funding themes (environment, child poverty, digital public goods, etc.) and target areas
+   * Form matching funds
+
+2. Applicant Recruitment
+   * Set application guidelines and recruit applicant organizations
+
+3. Donation Collection
+   * Collect general donations in a crowdfunding-like format
+   * Allow free donation amounts to organizations that donors value
+
+4. Matching Fund Distribution
+   * Allocate matching funds to each recipient based on weighted amounts calculated from the square root of donations
+
+***
+
+#### Tools
 
 * Gitcoin Grants
-  * オープンソースプロジェクト専門のQFプラットフォーム
+  * QF platform specialized for open source projects
 * Giveth
-  * コミュニティ主導の資金配分ツール
+  * Community-led funding distribution tool
 * DigDAO
-  * 日本での実験的事例として活用
+  * Used as an experimental case in Japan
 
 ***
 
-#### 社会課題解決のためのローカライズポイント
+#### Localization Points for Social Issue Resolution
 
-**プロジェクト領域の制限**
+**Limitations in Project Areas**
 
-1. 利害関係者に支払い能力がある社会課題に適している
-   * 寄付者が支払いを行う性質上、利害関係者の経済的リソースが限られている社会課題への適用には注意が必要
-   * 利害関係者の声を反映しない選択肢に資金が多く配分される可能性がある
-   * 逆に、環境問題のように経済状況に関係なく誰もが利害関係者となる社会課題では、多くの声を集める仕組みとして機能する
+1. Suitable for Social Issues Where Stakeholders Have Payment Capacity
+   * Due to the nature of donors making payments, caution is needed when applying to social issues where stakeholders have limited financial resources
+   * There is a possibility that more funds may be allocated to options that don't reflect stakeholders' voices
+   * Conversely, it functions well as a mechanism to gather many voices for social issues like environmental problems where everyone is a stakeholder regardless of economic situation
 
-2. 専門性が重要な判断には不向き
-   * 複雑な社会課題や技術的な専門性が必要なプロジェクトでは、市民が適切な判断を行うことが難しく、効果的な資金配分にならない可能性がある
+2. Not Suitable for Decisions Where Expertise is Important
+   * For complex social issues or projects requiring technical expertise, citizens may find it difficult to make appropriate judgments, potentially leading to ineffective fund distribution
 
-**事前審査プロセスの追加**
-* 上記のプロジェクト領域の制限は、専門家グループや利害関係者グループによる事前審査プロセスを追加することで改善可能
-* 利害関係者の現状から乖離しすぎているプロジェクトや専門的観点から不適切なプロジェクトを事前に除外することで、コミュニティ全体からの意見収集と専門性・利害関係者の代表性のバランスを取ることが可能
+**Adding Pre-screening Process**
+* The above limitations in project areas can be improved by adding a pre-screening process by expert groups or stakeholder groups
+* By screening out projects that are too far from stakeholders' current situation or inappropriate from a professional perspective in advance, it's possible to balance the collection of opinions from the entire community with expertise and stakeholder representation
 
-**税制度への考慮**
-* 日本の寄付文化や税制度を反映した、寄付者にとって魅力的な仕組みを確立する必要がある
-* 現状、クアドラティックファンディングでの寄付が国内法上の寄付に該当するかどうかの見解が明確でなく、注意が必要
-* 該当しない場合、寄付金控除が受けられない可能性がある
+**Tax System Considerations**
+* It's necessary to establish mechanisms attractive to donors that reflect Japanese donation culture and tax systems
+* Currently, there is no clear view on whether donations in Quadratic Funding qualify as donations under domestic law, requiring caution
+* If they don't qualify, tax deductions for donations may not be available
 
-**Sybil攻撃への耐性（複数アカウント対策）**
-* QFでは、個人が複数のアカウントを作成してそこから寄付を行うことで、投票結果を大きく歪めることが可能
+**Sybil Attack Resistance (Preventing Multiple Accounts)**
+* In QF, individuals can significantly distort voting results by creating multiple accounts and making donations from them
 
-例：
-* 1つのアカウントから10,000円を寄付した場合の投票力 = 100
-* 100個のアカウントから100円ずつ10,000円を寄付した場合の投票力 = 1,000
+Example:
+* Voting power when donating 10,000 yen from one account = 100
+* Voting power when donating 10,000 yen in 100 yen increments from 100 accounts = 1,000
 
-上記の例では、同じ寄付額で10倍の投票力を生み出すことができます。
+In the above example, the same donation amount can create 10 times the voting power.
 
-これを解決するために、KYCシステムの実装など、1人1アカウントを確保する仕組みが必要です。 
+To solve this, mechanisms like KYC system implementation are needed to ensure one account per person. 

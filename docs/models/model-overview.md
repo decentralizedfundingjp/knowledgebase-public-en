@@ -1,104 +1,104 @@
 ---
-title: 分散型資金調達モデルの概要
+title: Overview of Decentralized Funding Models
 sidebar_position: 1
-description: 各分散型資金調達モデルの概要、適用シナリオ、必要なリソース、主な事例をまとめています。
+description: A summary of decentralized funding models, including their overview, application scenarios, required resources, and main examples.
 ---
 
-# 分散型資金調達モデルの概要とクイックリファレンス
+# Introduction: Quick Reference and Summary of Decentralized Funding Models
 
-各分散型資金調達モデルは、特定の目的やシナリオに応じて柔軟に活用できます。このセクションでは、主要なモデルの概要、適用シナリオ、必要なリソース、主な事例をクイックリファレンス表にまとめています。
+Each decentralized funding model offers flexibility for use in specific purposes and scenarios. This section provides a quick reference table summarizing the overview, application scenarios, required resources, and main examples of key models.
 
-#### 分散型資金調達モデルのクイックリファレンス表
+#### Quick Reference Table of Decentralized Funding Models
 
-| モデル | 概要 | 適用シナリオ | 必要なリソース | 主な事例 |
+| Model | Overview | Application Scenarios | Required Resources | Main Examples |
 | ----- | -------- | -------------------- | ----------------- | ------------- |
-| クアドラティックボーティング | 複数票の投票コストを増加させ、少数意見を重視する投票方式 | 資金配分の優先順位付け、政策提案 | 投票プラットフォーム、ガバナンスサポート | Gitcoin、民主的意思決定プロジェクト |
-| クアドラティックファンディング | 少額寄付の影響力を増幅させるマッチング配分方式 | 助成金配分、小規模寄付支援 | マッチングプール、投票ツール | Gitcoin Grants、Giveth |
-| コミュニティ投票 | 寄付者や市民が直接参加して資金配分を決定する方式 | ローカルイベント、プロジェクト選定 | 投票プラットフォーム、透明性確保ツール | やまこし村プロジェクト、Snapshot投票 |
-| 委任型審査会 | 寄付者や市民が専門家審査員を選出して助成金を配分するモデル | 専門性を要する助成プログラム | 専門家審査員、投票プラットフォーム | Compound Grants、専門分野の助成プログラム |
+| Quadratic Voting | Voting method that increases cost for multiple votes to emphasize minority opinions | Determining funding priorities, policy proposals | Voting platform, governance support | Gitcoin, democratic decision-making projects |
+| Quadratic Funding | Matching distribution method that amplifies the impact of small donations | Grant distribution, small donation support | Matching pool, voting tools | Gitcoin Grants, Giveth |
+| Community Voting | Method where donors and citizens directly participate in decision-making to determine fund allocation | Local events, project selection | Voting platform, transparency tools | Yamakoshi Project, Snapshot voting |
+| Delegated Review | Model where donors and citizens elect expert reviewers to distribute grants | Grant programs requiring expertise | Expert reviewers, voting platform | Compound Grants, specialized grant programs |
 
 ***
 
-#### モデル詳細
+#### Model Overview
 
-**クアドラティックボーティング（QV）**
+**Quadratic Voting (QV)**
 
-概要：\
-投票者が票を購入し、投票数が増えるほどコストが上昇する投票方式。少数意見を反映しやすくなります。
+Overview:\
+A voting method where voters purchase votes and costs increase as more votes are cast. This makes it easier to reflect minority opinions.
 
-適用シナリオ：
+Application Scenarios:
 
-* 資金配分の優先順位付け
-* 複数の政策提案からの選択
+* Determining funding priorities
+* Selecting from multiple policy proposals
 
-必要なリソース：
+Required Resources:
 
-* 投票プラットフォーム（例：Snapshot）
-* ガバナンス運営サポート
+* Voting platform (e.g., Snapshot)
+* Governance operation support
 
-主な事例：\
-Gitcoin Grantsやその他の民主的意思決定プロジェクトでのプロジェクト選定プロセス。
-
-***
-
-**クアドラティックファンディング（QF）**
-
-概要：\
-寄付者の寄付額の平方根に基づいてマッチングプールから追加資金を配分するモデル。少額寄付の影響力が増幅され、より多様な意見が反映されます。
-
-適用シナリオ：
-
-* 小規模プロジェクトや新規イニシアチブへの助成金配分
-* コミュニティ活動やオープンソースプロジェクトへの資金支援
-
-必要なリソース：
-
-* マッチングプール（資金提供者により確保）
-* 投票ツール（例：Gitcoinプラットフォーム）
-
-主な事例：\
-Gitcoin Grants、UNICEF-Gitcoinパイロットプログラム。
+Main Examples:\
+Project selection process in Gitcoin Grants and democratic decision-making projects.
 
 ***
 
-**コミュニティ投票**
+**Quadratic Funding (QF)**
 
-概要：\
-寄付者や市民がプロジェクト候補への投票を通じて資金配分を決定する方式。住民やステークホルダーが直接意思決定に参加できます。
+Overview:\
+A model where additional funds from matching pools are distributed based on the square root of donor contribution amounts. The influence of small donations is amplified, reflecting more diverse opinions.
 
-適用シナリオ：
+Application Scenarios:
 
-* ローカルイベントの予算配分
-* 地域プロジェクトや小規模助成プログラム
+* Grant distribution for small-scale projects and new initiatives
+* Funding support for community activities and open source projects
 
-必要なリソース：
+Required Resources:
 
-* 投票プラットフォーム（例：Snapshot）
-* プロジェクト提案の透明性を確保するツール
+* Matching pool (secured by funders)
+* Voting tools (e.g., Gitcoin platform)
 
-主な事例：\
-新潟県長岡市やまこしプロジェクト（NFTとSnapshotを活用）。
-
-***
-
-**委任型審査会**
-
-概要：\
-寄付者や市民が専門家審査員を選出し、その審査員が助成金を配分するモデル。市民参加を実現しながら専門性も活かせます。
-
-適用シナリオ：
-
-* 医療や環境保全など高度な専門性が必要な分野
-* 大規模な助成プログラム
-
-必要なリソース：
-
-* 専門分野の知見を持つ審査員
-* 投票・意思決定のためのプラットフォーム
-
-主な事例：\
-Compound Grants、DDA（Delegated Domain Allocation）モデル。
+Main Examples:\
+Gitcoin Grants, UNICEF-Gitcoin pilot program.
 
 ***
 
-以降のセクションでは、これらの各モデルの詳細な実装方法や事例を紹介します。また、読者の組織に最適なモデルを選択し実装するための具体的なステップやツールも提示します。 
+**Community Voting**
+
+Overview:\
+A method where donors and citizens determine fund allocation through voting among project candidates. Residents and stakeholders can directly participate in decision-making.
+
+Application Scenarios:
+
+* Budget allocation for local events
+* Local projects and small grant programs
+
+Required Resources:
+
+* Voting platform (e.g., Snapshot)
+* Tools to ensure project proposal transparency
+
+Main Examples:\
+Yamakoshi Project in Nagaoka City, Niigata Prefecture (utilizing NFTs and Snapshot).
+
+***
+
+**Delegated Review**
+
+Overview:\
+A model where donors and citizens elect expert reviewers who then distribute grants. Enables citizen participation while leveraging expertise.
+
+Application Scenarios:
+
+* Fields requiring high expertise such as healthcare and environmental conservation
+* Large-scale grant programs
+
+Required Resources:
+
+* Reviewers with expertise in specialized fields
+* Platform for voting and decision-making
+
+Main Examples:\
+Compound Grants, DDA (Delegated Domain Allocation) model.
+
+***
+
+The following sections will provide detailed implementation methods and examples for each of these models. We will also present specific steps and tools to help readers select and implement the model most suitable for their organizations. 

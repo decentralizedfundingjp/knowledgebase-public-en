@@ -1,21 +1,17 @@
 ---
-title: 分散型資金分配とは
+title: What is Decentralized Funding
 sidebar_position: 1
-description: 分散型資金分配の基本概念と特徴について説明します
+description: Explains the basic concepts and characteristics of decentralized funding
 ---
 
-# 分散型資金分配とは
+# What is Decentralized Funding
 
-分散型資金分配とは、特定の審査員や組織が一方的に決定するのではなく、一定のルールやアルゴリズムに基づいて、寄付者や市民が意思決定に直接参加できる資金分配モデルを指します​。
+Decentralized funding refers to funding distribution models that allow donors and citizens to directly participate in decision-making based on specific rules and algorithms, rather than having decisions made unilaterally by specific reviewers or organizations.
 
-<div style={{textAlign: 'center'}}>
-  <img src="/img/front/difference.jpg" alt="従来型と分散型の資金分配の違い" style={{maxWidth: '100%'}} />
-</div>
+Traditional centralized funding models often relied on the judgment of a few authority figures, leading to issues of bias and lack of transparency. In contrast, decentralized models have the following characteristics:
 
-従来の中央集権的な資金分配モデルでは、一部の権限者の判断に依存することが多く、偏りや透明性の欠如が課題となっていました。一方で、分散型モデルは以下の特徴を持っています：
+* Transparency: All processes are public, and anyone can verify the flow of funds.
+* Fairness: Mechanisms are in place to properly evaluate small donations and small-scale projects.
+* Participatory Decision-Making: Donors and citizens participate in decision-making, reflecting more diverse perspectives.
 
-* 透明性：すべてのプロセスが公開され、資金の流れを誰でも確認できる。
-* 公平性：小額の寄付や小規模プロジェクトでも適切に評価される仕組みを採用。
-* 参加型意思決定：寄付者や市民が意思決定に参加することで、より多様な視点が反映される。
-
-具体的な手法としては、Quadratic Funding（QF）、コミュニティ投票、委任型審査会などがあり、これらはすでに海外で成功事例が確認されています​。 
+Specific methods include Quadratic Funding (QF), Community Voting, and Delegated Review, which have already proven successful in various cases overseas. 

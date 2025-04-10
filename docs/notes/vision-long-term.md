@@ -2,40 +2,40 @@
 sidebar_position: 1
 ---
 
-# 長期的なビジョン
+# Long-term Vision
 
-分散型資金分配は、単なる一時的な手法ではなく、社会全体における資金分配の未来像を再設計するための重要なステップです。本節では、その長期的なビジョンを以下の3つの観点から解説します。
+Decentralized funding is not merely a temporary method but an important step in redesigning the future of fund distribution across society. This section explains the long-term vision from the following three perspectives.
 
-#### 公平で透明性の高い資金分配の標準化
+#### Standardization of Fair and Transparent Fund Distribution
 
-現在のソーシャルセクターでは、資金分配プロセスが閉鎖的で不透明なケースが多く、寄付者や市民の信頼を損なっています。分散型資金分配は、透明性を高め、公平な資金配分を可能にする仕組みとして機能します。
+In the current social sector, fund distribution processes are often closed and opaque, undermining trust among donors and citizens. Decentralized funding functions as a mechanism to enhance transparency and enable fair fund distribution.
 
-* 資金分配プロセスの可視化\
-  審査基準や資金の流れがブロックチェーンなどの技術によって完全に公開されることで、不透明性が排除され、関係者全員が公平性を実感できます。
-* 公平性の確保\
-  大規模なプロジェクトだけでなく、小規模で革新的な活動や新規参入者にも資金が行き渡る仕組みが確立されます。これにより、社会課題解決の可能性が広がります。
-* 寄付市場の拡大\
-  信頼性が向上することで、寄付者や支援者が増加し、結果として寄付市場が成長します。透明性と公平性が寄付者のエンゲージメントを高める鍵となります。
+* Visualization of Fund Distribution Processes\
+  By completely publicizing review criteria and fund flows through technologies like blockchain, opacity is eliminated, and all stakeholders can experience fairness.
+* Ensuring Fairness\
+  Mechanisms are established to distribute funds not only to large-scale projects but also to small-scale, innovative activities and new entrants. This expands the possibilities for solving social issues.
+* Expansion of the Donation Market\
+  As reliability improves, donors and supporters increase, resulting in the growth of the donation market. Transparency and fairness become key to enhancing donor engagement.
 
-#### 地域主導の「分散型公共財」の発展
+#### Development of Community-Led "Decentralized Public Goods"
 
-分散型資金分配は、地域住民が主体となる公共財の創出と維持に大きな可能性を持っています。このアプローチは、地方自治や地域コミュニティに新たな活力をもたらします。
+Decentralized funding holds great potential for the creation and maintenance of public goods led by local residents. This approach brings new vitality to local governance and community activities.
 
-* 住民参加型の資金分配\
-  地域イベントや小規模インフラ整備において、住民が投票や提案を通じて意思決定に関与することで、資金分配の透明性と信頼性が向上します。
-* 地域課題解決の推進\
-  地域特有の課題に対して、住民のニーズや視点を直接反映したプロジェクトが実施されるようになります。例えば、災害復興支援や環境保全プロジェクトでの活用が期待されます。
-* 地域のつながりの強化\
-  分散型資金分配は、住民同士の協力やコミュニティの結びつきを強化する手段としても機能します。住民がプロジェクトの計画から実施までを共有することで、持続可能な地域社会が形成されます。
+* Participatory Fund Distribution\
+  In local events and small-scale infrastructure development, residents' involvement in decision-making through voting and proposals enhances the transparency and reliability of fund distribution.
+* Promotion of Local Issue Resolution\
+  Projects that directly reflect residents' needs and perspectives will be implemented for region-specific issues. For example, utilization in disaster recovery support and environmental conservation projects is expected.
+* Strengthening Community Connections\
+  Decentralized funding also functions as a means to strengthen cooperation among residents and community bonds. By sharing projects from planning to implementation, sustainable local communities are formed.
 
-#### 日本発の資金分配モデルの確立と発信
+#### Establishment and Dissemination of Japan-Originated Fund Distribution Models
 
-日本社会特有の課題や文化に適応した分散型資金分配モデルを構築し、国際的な発信を行うことも長期的な目標です。
+Building decentralized funding models adapted to Japan's unique social challenges and culture and sharing them internationally is also a long-term goal.
 
-* ローカライズされたモデルの開発\
-  高齢化社会や地域自治体の特性を考慮し、日本独自の資金分配モデルを構築します。たとえば、高齢者でも使いやすい投票プラットフォームや、地域資源を活用した資金調達の仕組みを開発します。
-* 国際発信とリーダーシップ\
-  日本で成功したモデルを海外に発信し、他国のソーシャルセクターや公共財分野における資金分配モデルの参考とします。これにより、日本が新しい社会課題解決手法のリーダーシップを取ることが期待されます。
+* Development of Localized Models\
+  Considering the characteristics of an aging society and local governments, we build Japan-specific fund distribution models. For example, developing voting platforms that are easy for elderly people to use and fund-raising mechanisms that utilize local resources.
+* International Dissemination and Leadership\
+  Sharing successful models from Japan internationally serves as a reference for fund distribution models in other countries' social sectors and public goods fields. This is expected to position Japan as a leader in new social issue resolution methods.
 
-学びと改善のグローバルな循環\
-日本国内の成功事例を基に、海外の実践者と連携してフィードバックを得ることで、さらなる改善を図り、モデルの持続可能性を高めます。 
+* Global Cycle of Learning and Improvement\
+  Based on success stories in Japan, collaborating with international practitioners to obtain feedback enables further improvements and enhances the sustainability of the models. 

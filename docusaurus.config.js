@@ -10,12 +10,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Knowledge Base',
-  tagline: '分散型資金調達の知識ベース',
+  title: 'Decentralized Funding Knowledge Base',
+  tagline: 'Knowledge Base for Decentralized Funding',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://knowledgebase-public.netlify.app',
+  url: 'https://knowledgebase-public-en.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'decentralizedfundingjp', // Usually your GitHub org/user name.
-  projectName: 'knowledgebase-public', // Usually your repo name.
+  projectName: 'knowledgebase-public-en', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
@@ -32,12 +32,12 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'ja',
-    locales: ['ja'],
+    defaultLocale: 'en',
+    locales: ['en'],
     localeConfigs: {
-      ja: {
-        label: '日本語',
-        htmlLang: 'ja',
+      en: {
+        label: 'English',
+        htmlLang: 'en',
       },
     },
   },
@@ -58,7 +58,7 @@ const config = {
             },
           },
           includeCurrentVersion: true,
-          editUrl: 'https://github.com/decentralizedfundingjp/knowledgebase-public/edit/master/',
+          editUrl: 'https://github.com/decentralizedfundingjp/knowledgebase-public-en/edit/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,7 +73,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Knowledge Base',
+        title: 'Decentralized Funding Knowledge Base',
         logo: {
           alt: 'Knowledge Base Logo',
           src: 'img/logo.svg',
@@ -85,10 +85,6 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -99,6 +95,10 @@ const config = {
             items: [
               {
                 label: 'Getting Started',
+                to: '/getting-started',
+              },
+              {
+                label: 'What is Decentralized Funding?',
                 to: '/what-is-decentralized-funding',
               },
             ],
@@ -107,16 +107,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://twitter.com/docusaurus',
+                label: 'GitHub',
+                href: 'https://github.com/decentralizedfundingjp/knowledgebase-public-en',
               },
             ],
           },
@@ -124,13 +116,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Japanese Version',
+                href: 'https://decentralizedfunding.netlify.app/getting-started',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Knowledge Base Project.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Decentralized Funding Knowledge Base Project.`,
       },
       prism: {
         theme: prismThemes.github,
@@ -141,7 +133,7 @@ const config = {
   // Git repository information
   customFields: {
     repository: {
-      url: 'https://github.com/decentralizedfundingjp/knowledgebase-public',
+      url: 'https://github.com/decentralizedfundingjp/knowledgebase-public-en',
       branch: 'master',
     },
   },

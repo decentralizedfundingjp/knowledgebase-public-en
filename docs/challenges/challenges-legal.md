@@ -2,10 +2,13 @@
 sidebar_position: 1
 ---
 
-# 法的課題
+# Legal Challenges
 
-1. 暗号資産寄付の法的扱い 日本では国税庁により暗号資産寄付が特定寄付金として認められることが明示されていますが、具体的な運用ガイドラインや申告方法については未整備な部分が多く存在します。このため、暗号資産寄付を実施する団体は、税務専門家の協力を得て適切な運用手順を設計することが求められます。また、税務上の恩恵を最大化するためには、寄付者がどのような手続きで控除を受けられるか明確にするガイドラインの作成が重要です。
+1. Legal Treatment of Cryptocurrency Donations\
+   While Japan's National Tax Agency has explicitly recognized cryptocurrency donations as specified donations, there are many areas where specific operational guidelines and declaration methods remain unestablished. Therefore, organizations implementing cryptocurrency donations need to design appropriate operational procedures with the cooperation of tax experts. Additionally, to maximize tax benefits, it is important to create guidelines that clearly explain the procedures donors can follow to receive deductions.
 
-2. KYC（本人確認）とAML（マネーロンダリング対策） 暗号資産を利用した寄付では、犯罪収益移転防止法に基づき、寄付者の本人確認や取引の追跡可能性を確保する必要があります。特に、シビル攻撃（複数の偽アカウントを利用した不正行為）を防ぐために、堅牢な本人確認システムを導入することが必須です。これには、デジタルIDの利用や、多要素認証の採用が含まれます。
+2. KYC (Know Your Customer) and AML (Anti-Money Laundering)\
+   For donations using cryptocurrency, it is necessary to ensure donor identity verification and transaction traceability based on the Act on Prevention of Transfer of Criminal Proceeds. Particularly, to prevent Sybil attacks (fraud using multiple fake accounts), implementing a robust identity verification system is essential. This includes the use of digital IDs and the adoption of multi-factor authentication.
 
-3. データ保護とプライバシー ブロックチェーンの透明性が高い一方で、個人情報の適切な取り扱いが課題となります。特に、日本の個人情報保護法（PIPA）を遵守し、必要最低限のデータを記録することが求められます。例えば、取引履歴に関するデータの匿名化や、寄付者情報の暗号化などの技術的措置が推奨されます。 
+3. Data Protection and Privacy\
+   While blockchain offers high transparency, proper handling of personal information becomes a challenge. Particularly, it is necessary to comply with Japan's Personal Information Protection Act (PIPA) and record only the minimum necessary data. Technical measures such as anonymizing transaction history data and encrypting donor information are recommended. 

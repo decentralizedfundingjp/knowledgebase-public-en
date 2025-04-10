@@ -1,145 +1,139 @@
 ---
-title: 委任型審査会（DDA）
-sidebar_position: 4
-description: 委任型審査会（DDA）の仕組みと特徴について説明します
+title: Delegated Review
+sidebar_position: 5
+description: Overview, implementation steps, tools, and success stories of Delegated Review.
 ---
 
-# 委任型審査会（DDA）
+# Delegated Review
 
-委任型審査会（DDA）は、専門家による審査とコミュニティの意思決定を組み合わせた資金配分モデルです。
+#### Summary
 
-<div style={{textAlign: 'center'}}>
-  <img src="/img/models/ddamodel.jpg" alt="委任型審査会（DDA）の概要" style={{maxWidth: '100%'}} />
-</div>
+**Practitioners**
+* Foundations and funds
+* Government agencies and local authorities
+* Specialized NPOs/NGOs
 
-#### 概要
+**Purpose**
+* Maintain community-led decision-making while utilizing expertise
+* Improve efficiency and fairness in grant distribution
+* Achieve appropriate fund allocation for each field
 
-**実施主体**
-* 財団や基金
-* 政府機関や地方自治体
-* 専門性の高いNPO/NGO
-
-**目的**
-* 専門性を活かしながらコミュニティ主導の意思決定を維持
-* 助成金配分の効率性と公平性を向上
-* 各分野に適切な資金配分を実現
-
-**必要なリソース**
-* 配分者選定プロセス
-  * 専門性と信頼性を持つ候補者のリストアップと評価
-* 投票プラットフォーム
-  * Snapshotなどの高い透明性を持つシステム
-* 助成金管理ツール
-  * 進捗と結果を共有するダッシュボード
+**Required Resources**
+* Allocator selection process
+  * Listing and evaluation of candidates with expertise and credibility
+* Voting platform
+  * Highly transparent systems like Snapshot
+* Grant management tools
+  * Dashboard for sharing progress and results
 
 ***
 
-#### 詳細説明
+#### Overview
 
-委任型審査会モデルは、寄付者や市民が投票を通じて特定分野の専門家である審査員（配分者）を選出し、その審査員が助成金を配分するシステムです。このモデルは、専門性を活用しながらコミュニティ主導の意思決定を維持することを目指しています。
+The delegated review model is a system where donors and citizens elect reviewers (allocators) who are experts in specific fields through voting, and these reviewers distribute grants. This model aims to maintain community-led decision-making while utilizing expertise.
 
-**特徴**
-* 専門性と分散化のバランス：専門知識を持つ審査員が助成金配分を担当
-* 効率的な意思決定：審査プロセスの効率化
-* コミュニティによる監視：配分者の行動はコミュニティによって監視され、不信任動議による交代も可能
-
-***
-
-#### 適用シナリオ
-
-* 専門性が必要な分野：医療、環境保全、教育など高度な専門知識が必要な領域
-* 大規模な助成プログラム：候補プロジェクトが多数存在するケース
-* 効率的なリソース管理：分野ごとの資金配分の最適化
+**Features**
+* Balance of expertise and decentralization: Reviewers with specialized knowledge handle grant allocation
+* Efficient decision-making: Streamlined review process
+* Community oversight: Allocators' actions are monitored by the community, with possible replacement through no-confidence motions
 
 ***
 
-#### 必要なリソース
+#### Application Scenarios
 
-* 配分者選定
-  * 専門知識を持つ信頼できる候補者のリストアップ
-* 投票プラットフォーム
-  * 例：Snapshotなどの高い透明性を持つ投票システム
-* 助成金管理ツール
-  * 審査結果や進捗を共有するダッシュボード
+* Fields requiring expertise: Areas needing advanced specialized knowledge such as healthcare, environmental conservation, education
+* Large-scale grant programs: Cases with numerous candidate projects
+* Efficient resource management: Optimizing fund allocation by field
 
 ***
 
-#### 成功事例
+#### Required Resources
 
-**Compound Grants DDAモデル**
-
-**背景**
-* イーサリアムベースの分散型金融（DeFi）プラットフォームであるCompoundが、エコシステム開発のためにDDAモデルを活用した助成プログラムを開始
-
-**運用プロセス**
-
-1. 分野選定
-   * コミュニティ投票により4つの優先助成分野を選定（新規プロトコル、セキュリティ分析ツール、開発者ツール、マルチチェーン戦略）
-
-2. 配分者募集と選定
-   * 各分野の専門家を募集し、評価を経て4名の配分者を選定
-
-3. 資金配分とプロジェクト管理
-   * 配分者が各分野の予算を管理し、プロジェクト提案の審査と選定を実施
-
-4. コミュニティによる監視
-   * コミュニティのフィードバックと定期的な評価を通じて配分者の活動をチェック
-
-**結果**
-* 2四半期で約67万ドル（約35の提案）を迅速に助成
-* 平均48時間の応答時間で効率的な審査を実現
-* 専門性に基づく効果的な資金配分を達成
+* Allocator selection
+  * Listing trustworthy candidates with specialized knowledge
+* Voting platform
+  * Example: Highly transparent voting systems like Snapshot
+* Grant management tools
+  * Dashboard for sharing review results and progress
 
 ***
 
-#### 実装手順
+#### Success Stories
 
-1. 目的と範囲の設定
-   * 対象分野と目標を明確化
+**Compound Grants DDA Model**
 
-2. 配分者候補の選定
-   * 専門性を持つ候補者をリストアップし、コミュニティ投票で選出
+**Background**
+* Compound, an Ethereum-based decentralized finance (DeFi) platform, launched a grant program using the DDA Model to develop its ecosystem
 
-3. 資金配分
-   * 配分者を通じて各分野の予算を配分・管理
+**Operational Process**
 
-4. プロジェクト提案募集と審査
-   * 配分者がプロジェクトの募集と審査を実施
+1. Field Selection
+   * Community voting selected four high-priority grant areas (new protocols, security analysis tools, developer tools, multi-chain strategy)
 
-5. 結果公開とフィードバック
-   * 助成結果を公開し、今後の改善に活用
+2. Allocator Recruitment and Selection
+   * Recruited experts for each field and selected 4 allocators after evaluation
+
+3. Fund Distribution and Project Management
+   * Allocators managed budgets for each field, reviewing and selecting project proposals
+
+4. Community Oversight
+   * Allocator activities were checked through community feedback and regular evaluations
+
+**Results**
+* Quickly granted $670,000 (about 35 proposals) over 2 quarters
+* Achieved efficient review with average response time of 48 hours
+* Accomplished effective fund allocation based on expertise
 
 ***
 
-#### 成功のポイント
+#### Implementation Steps
 
-* 専門性の活用：各分野の専門知識に基づいて配分者が助成金を配分
-* 透明性と信頼性：コミュニティによる監視と結果公開で信頼を向上
-* 効率性の確保：審査プロセスの簡素化と迅速な意思決定
+1. Setting Purpose and Scope
+   * Clarify target fields and objectives
+
+2. Selecting Allocator Candidates
+   * List candidates with expertise and elect through community voting
+
+3. Fund Allocation
+   * Distribute and manage budgets for each field through allocators
+
+4. Project Proposal Solicitation and Review
+   * Allocators solicit and review projects
+
+5. Result Publication and Feedback
+   * Publish grant results and utilize for future improvements
 
 ***
 
-#### ツール
+#### Keys to Success
+
+* Utilizing Expertise: Allocators distribute grants based on specialized knowledge in each field
+* Transparency and Reliability: Community oversight and result publication enhance trust
+* Ensuring Efficiency: Simplified review process and quick decision-making
+
+***
+
+#### Tools
 
 * Snapshot
-  * コミュニティ投票と配分者選定に活用可能
+  * Usable for community voting and allocator selection
 * Tally
-  * 助成進捗管理と透明性を強化
-* Compound Grantsプラットフォーム
-  * 助成金管理・配分ツール
+  * Strengthens grant progress management and transparency
+* Compound Grants Platform
+  * Grant management and distribution tool
 
 ***
 
-#### 社会課題解決のためのローカライズポイント
+#### Localization Points for Social Issue Resolution
 
-**専門性の適用**
-* 日本特有の課題（高齢化社会、自然災害対策など）に対応する専門分野での適用
+**Expertise Application**
+* Application in specialized fields addressing Japan-specific issues (e.g., aging society, natural disaster countermeasures)
 
-**文化的な適応**
-* 公平性を重視した透明性の高い配分者選定プロセスの設計
+**Cultural Adaptation**
+* Design transparent allocator selection process emphasizing fairness
 
-**教育と理解の促進**
-* 投票者や候補者への教育を通じてモデルの信頼性と有効性を向上
+**Promoting Education and Understanding**
+* Enhance model reliability and effectiveness through voter and candidate education
 
-**テクノロジーの活用**
-* 日本の規制やデジタルインフラに合わせたツール実装の検討 
+**Technology Utilization**
+* Consider tool implementation aligned with Japanese regulations and digital infrastructure 

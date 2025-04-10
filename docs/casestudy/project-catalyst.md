@@ -5,164 +5,164 @@ sidebar_label: Project Catalyst
 
 # Project Catalyst
 
-**概要**
+**Overview**
 
-Project Catalystは、Cardanoエコシステムの発展と革新を促進する分散型イノベーションプラットフォームです。コミュニティ主導の提案と投票を通じてプロジェクトに資金を提供し、分散型ガバナンスを実現します。Cardanoトレジャリーを活用して定期的に資金ラウンドを実施し、幅広い分野のプロジェクトを支援しています。
+Project Catalyst is a decentralized innovation platform that promotes the development and innovation of the Cardano ecosystem. It provides funding to projects through community-led proposals and voting, realizing decentralized governance. Utilizing the Cardano Treasury, it regularly conducts funding rounds to support projects across various fields.
 
-**実施年**
+**Year of Implementation**
 
-2020年
+2020
 
-**運営者**
+**Operators**
 
 Input Output Global (IOG)
 
-**対象分野**
+**Target Areas**
 
-* 開発者エコシステム
-* DAppsおよびDeFi
-* ガバナンスとインフラ
-* 教育プログラム
-* 社会的影響を目指したプロジェクト
+* Developer Ecosystem
+* DApps and DeFi
+* Governance and Infrastructure
+* Educational Programs
+* Social Impact Projects
 
-**目的**
+**Objectives**
 
-* Cardanoエコシステムの成長と持続可能性を実現
-* 分散型ガバナンスの促進
-* 新しいブロックチェーン技術の革新的利用を支援
+* Achieve growth and sustainability of the Cardano ecosystem
+* Promote decentralized governance
+* Support innovative uses of new blockchain technologies
 
-**成果**
+**Results**
 
-* 累積資金配分額: 9,000万ドル（51,000,000ドルがすでに分配済み）
-* 支援プロジェクト数: 1,891件（約900件が完了）
-* 投票データ（Fund12ラウンド）:
-  * 投票参加ADA数: 約25億ADA
-  * 投票ウォレット数: 約7,000
-  * 投票総数: 約30万票
-
-***
-
-## 資金分配モデル
-
-**イノベーションフェーズ（提案段階）**
-
-* 提案受付:
-  * Ideascaleプラットフォーム（[Cardano Ideascale](https://cardano.ideascale.com/)）を利用して提案を受け付けます
-  * 提案者は、以下を含む詳細なプロジェクト計画を作成して提出:
-    * プロジェクト概要
-    * チーム構成
-    * 必要な資金額
-    * 実行計画とタイムライン
-    * 期待される成果と社会的インパクト
-* 提案のブラッシュアップ:
-  * 提案はコミュニティからフィードバックを受け、改良が可能です（この段階ではまだ正式な審査対象ではない）
-  * フィードバックに基づき提案を具体化し、最終版を提出
-* カテゴリー分け:
-  * 提案は事前に設定されたカテゴリ（例: DeFi、DApps、教育、社会インパクトなど）に分類されます
-
-**ガバナンスフェーズ（投票段階）**
-
-* 投票資格の付与:
-  * 投票権はADA保有量に基づき付与されます
-  * スナップショット時点で最低500 ADAを保有する必要があり、投票権は保有ADA量に比例
-* 提案の評価と審査:
-  * 提案はコミュニティレビュアーによって以下の基準で評価されます:
-    * 実現可能性
-    * 提案の影響力
-    * リスク評価
-    * 提案価値
-  * 評価は1～5つ星でスコア付けされ、全体の評価結果が公開されます
-* 投票実施:
-  * 登録された投票者は、Catalyst Votingアプリを通じて提案に賛成または棄権票を投じます
-  * 投票期間は通常2週間程度設定されます
-* 結果集計:
-  * 提案の承認可否は、投票結果に基づいて決定されます
-  * 集計結果はブロックチェーン上で公開され、誰でも検証可能です
-
-**実行フェーズ（プロジェクト実行段階）**
-
-* 選定プロジェクトへの資金提供:
-  * 承認された提案は、マイルストーンベースで段階的に資金提供を受けます
-  * 初回資金は通常、計画されたマイルストーンの80%が月次で分配されます。残りの20%はマイルストーン達成後に支払われます
-* プロジェクトの進捗管理:
-  * プロジェクトチームは、Milestone Moduleを通じて「成果証明（Proof of Achievement, PoA）」を提出
-  * PoAには以下の情報が含まれる必要があります:
-    * 各マイルストーンの達成状況と具体的な成果物
-    * 計画通り進行していることを示す証拠（例: 写真、動画、レポート、領収書）
-  * コミュニティレビュアーまたは専任レビュアーがPoAを確認し、進捗が適切であると判断した場合に次の資金が提供されます
-* 最終報告:
-  * プロジェクト完了後に最終報告書を提出。報告書には、プロジェクト全体の概要、成果、達成度の評価を記載
-
-**重要な特徴**
-
-* コミュニティによる評価とガバナンス
-  * 提案の評価と承認は、完全にコミュニティの投票に基づいて行われます
-  * コミュニティレビュアーは、一定の条件を満たせば誰でも参加可能。レビュアーは経験に応じて3段階に分類されます（LV0～LV2）
-* マイルストーンベースの資金提供
-  * 資金が一括で提供されるのではなく、プロジェクト進行に応じて分割して提供されます
-  * これにより、進捗の透明性を確保し、適切なリソース配分を可能にします
-* オンチェーン管理
-  * 提案、投票、資金配分、進捗報告などのすべてのプロセスがブロックチェーン上で記録され、透明性が高い
-* フィードバックと改善のループ
-  * 各資金ラウンドの終了後、参加者からのフィードバックを分析し、次回のラウンドに反映。これにより、プログラムの継続的な改善を実現しています
+* Cumulative fund allocation: $90 million ($51,000,000 already distributed)
+* Number of supported projects: 1,891 (approximately 900 completed)
+* Voting data (Fund12 round):
+  * Number of ADA participating in voting: Approximately 2.5 billion ADA
+  * Number of voting wallets: Approximately 7,000
+  * Total votes cast: Approximately 300,000
 
 ***
 
-## 成果と特徴
+## Fund Distribution Model
 
-**成功事例**
+**Innovation Phase (Proposal Stage)**
 
-* Liqwid: Cardano初の分散型金融プロトコルを開発
-* DripDropz: Cardanoトークンの分配プラットフォームを提供
-* Minswap Labs: Cardano上の分散型取引所（DEX）を構築
-* Empowa: アフリカでの住宅金融プロジェクトを展開
+* Proposal Acceptance:
+  * Uses the Ideascale platform ([Cardano Ideascale](https://cardano.ideascale.com/)) to accept proposals
+  * Proposers create and submit detailed project plans including:
+    * Project overview
+    * Team composition
+    * Required funding amount
+    * Implementation plan and timeline
+    * Expected outcomes and social impact
+* Proposal Refinement:
+  * Proposals receive community feedback and can be improved (not yet subject to formal review at this stage)
+  * Proposals are refined based on feedback and final versions are submitted
+* Categorization:
+  * Proposals are classified into predefined categories (e.g., DeFi, DApps, education, social impact)
 
-**成功のポイント**
+**Governance Phase (Voting Stage)**
 
-* 透明性の確保: 資金の流れや投票結果をオンチェーンで管理
-* 多様性の促進: 幅広い分野の提案が支援対象に
-* コミュニティ主導のガバナンス: 投票を通じて民主的かつ公平な意思決定を実現
+* Voting Rights Assignment:
+  * Voting rights are granted based on ADA holdings
+  * Minimum 500 ADA required at snapshot time, with voting rights proportional to ADA holdings
+* Proposal Evaluation and Review:
+  * Proposals are evaluated by community reviewers based on:
+    * Feasibility
+    * Impact of the proposal
+    * Risk assessment
+    * Proposal value
+  * Evaluations are scored from 1 to 5 stars, with overall results made public
+* Voting Implementation:
+  * Registered voters cast votes for or abstain on proposals through the Catalyst Voting app
+  * Voting period typically set for about 2 weeks
+* Result Tallying:
+  * Proposal approval is determined based on voting results
+  * Tallying results are publicly available on the blockchain for verification
+
+**Implementation Phase (Project Execution Stage)**
+
+* Funding for Selected Projects:
+  * Approved proposals receive funding in stages based on milestones
+  * Initial funding typically distributes 80% of planned milestones monthly, with remaining 20% paid upon milestone completion
+* Project Progress Management:
+  * Project teams submit "Proof of Achievement (PoA)" through the Milestone Module
+  * PoA must include:
+    * Status of each milestone and specific deliverables
+    * Evidence of progress according to plan (e.g., photos, videos, reports, receipts)
+  * Community reviewers or dedicated reviewers verify PoA, and next funding is provided if progress is deemed appropriate
+* Final Report:
+  * Final report submitted upon project completion, including project overview, outcomes, and achievement evaluation
+
+**Key Features**
+
+* Community Evaluation and Governance
+  * Proposal evaluation and approval are entirely based on community voting
+  * Community reviewers can participate if they meet certain conditions, classified into three levels based on experience (LV0-LV2)
+* Milestone-based Funding
+  * Funding is provided in stages rather than as a lump sum
+  * This ensures progress transparency and enables appropriate resource allocation
+* On-chain Management
+  * All processes including proposals, voting, fund distribution, and progress reports are recorded on the blockchain for high transparency
+* Feedback and Improvement Loop
+  * After each funding round, participant feedback is analyzed and reflected in the next round, enabling continuous program improvement
 
 ***
 
-## 日本社会での応用可能性
+## Results and Characteristics
 
-**期待される効果**
+**Success Stories**
 
-* 分散型資金分配の導入
-  * NPOや社会起業家が提案を投稿し、支援者が直接投票で選定するモデルを活用し、公平で透明性の高い資金分配を実現
-* 透明性と説明責任の向上
-  * ブロックチェーン技術を活用し、資金の流れや投票結果をリアルタイムで可視化。これにより、信頼を基盤とした寄付市場の成長が期待される
-* コミュニティ参加の促進
-  * 市民や専門家が提案やレビューに参加できる仕組みを整備することで、多様な視点が反映され、プロジェクトの質が向上
-* 革新の加速
-  * 新しいアイデアや小規模プロジェクトへの資金提供を通じて、社会課題解決のためのイノベーションを推進
+* Liqwid: Developed Cardano's first decentralized finance protocol
+* DripDropz: Provides a Cardano token distribution platform
+* Minswap Labs: Built a decentralized exchange (DEX) on Cardano
+* Empowa: Expanded housing finance projects in Africa
 
-**導入時の課題**
+**Key Success Factors**
 
-* 評価基準の整備と透明性の確保
-  * 課題: 専門的な知識を持つレビュアーの確保が難しく、公平性を担保する仕組みが必要
-  * 改善策:
-    * 評価基準を事前に公開し、透明性を確保
-    * レビュープロセスにおいて、専門家によるレビューと市民によるピアレビューを併用し、客観性を向上させる仕組みを導入
-    * 評価基準と結果をオンチェーンで公開し、透明性を強化
-* プロジェクト成果の長期的な可視化
-  * 課題: プロジェクトの進捗や影響を長期的に追跡する仕組みが不足
-  * 改善策:
-    * 定期的な進捗報告や成果公開を義務化し、オンチェーンでの記録を活用
-    * データ収集・分析用のダッシュボードを構築し、プロジェクト成果の定量的な評価を可能にする
-* 投票システムの最適化
-  * 課題: 投票権が大口保有者に偏ることで、公平性が損なわれるリスクがある
-  * 改善策:
-    * 「Quadratic Voting」などの平等化を重視した投票システムを採用し、小口寄付者の意見を反映
-    * 投票資格をADA保有量だけでなく、定期的なコミュニティ活動への参加や貢献に基づく設計に変更
-    * 投票参加者へのインセンティブ（例: NFTや参加証明）を提供し、投票率を向上させる
-* 法規制への適合性
-  * 課題: 日本の非営利セクターや寄付関連の法規制との調和が必要
-  * 改善策:
-    * 専門家と協力して、寄付金の管理やブロックチェーン技術の活用における法的課題をクリアするためのガイドラインを整備
-    * 税制優遇や法的基準を満たす仕組みを開発
-* 文化的適応
-  * 課題: 日本文化に適応した合意形成や意思決定プロセスの設計が必要
-  * 改善策:
-    * オフラインの住民会議や地域イベントとの連携を重視し、テクノロジーに不慣れな層にも参加しやすい仕組みを導入 
+* Ensuring Transparency: Managing fund flows and voting results on-chain
+* Promoting Diversity: Supporting proposals across various fields
+* Community-led Governance: Achieving democratic and fair decision-making through voting
+
+***
+
+## Potential Applications in Japanese Society
+
+**Expected Effects**
+
+* Introduction of Decentralized Fund Distribution
+  * Utilizing a model where NPOs and social entrepreneurs post proposals and supporters directly vote to select them, achieving fair and transparent fund distribution
+* Enhanced Transparency and Accountability
+  * Using blockchain technology to visualize fund flows and voting results in real-time, fostering growth of a trust-based donation market
+* Promoting Community Participation
+  * Establishing systems where citizens and experts can participate in proposals and reviews, improving project quality through diverse perspectives
+* Accelerating Innovation
+  * Promoting innovation for social issue resolution through funding for new ideas and small-scale projects
+
+**Implementation Challenges**
+
+* Establishing Evaluation Criteria and Ensuring Transparency
+  * Challenge: Difficulty in securing reviewers with specialized knowledge and ensuring fairness
+  * Improvement Measures:
+    * Publishing evaluation criteria in advance to ensure transparency
+    * Introducing a system combining expert reviews with citizen peer reviews to enhance objectivity
+    * Publishing evaluation criteria and results on-chain to strengthen transparency
+* Long-term Visualization of Project Outcomes
+  * Challenge: Lack of mechanisms for long-term tracking of project progress and impact
+  * Improvement Measures:
+    * Mandating regular progress reports and outcome disclosures, utilizing on-chain records
+    * Building dashboards for data collection and analysis to enable quantitative evaluation of project outcomes
+* Optimizing Voting Systems
+  * Challenge: Risk of fairness being compromised due to voting rights being biased toward large holders
+  * Improvement Measures:
+    * Adopting voting systems emphasizing equality like "Quadratic Voting" to reflect small donors' opinions
+    * Changing voting eligibility to be based not just on ADA holdings but also on regular community participation and contributions
+    * Providing incentives (e.g., NFTs, participation certificates) to voters to increase participation rates
+* Regulatory Compliance
+  * Challenge: Need for harmonization with Japanese non-profit sector and donation-related regulations
+  * Improvement Measures:
+    * Collaborating with experts to develop guidelines for clearing legal issues in fund management and blockchain technology utilization
+    * Developing systems meeting tax benefits and legal standards
+* Cultural Adaptation
+  * Challenge: Need for designing consensus-building and decision-making processes adapted to Japanese culture
+  * Improvement Measures:
+    * Emphasizing collaboration with offline community meetings and local events to create systems accessible to those unfamiliar with technology 

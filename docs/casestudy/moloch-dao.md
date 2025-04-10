@@ -5,97 +5,97 @@ sidebar_label: Moloch DAO
 
 # Moloch DAO
 
-**概要**
+**Overview**
 
-Moloch DAOは、Ethereumエコシステム内のプロジェクトを支援する分散型自律組織（DAO）です。メンバーが資金を共同でプールし、投票を通じてプロジェクトを選定・支援します。透明性と効率性の高い運用モデルを採用しており、Ethereumエコシステム全体の成長を目的としています。
+Moloch DAO is a decentralized autonomous organization (DAO) that supports projects within the Ethereum ecosystem. Members pool funds together and select and support projects through voting. It adopts a highly transparent and efficient operational model, aiming for the growth of the entire Ethereum ecosystem.
 
-**実施年**
+**Year of Implementation**
 
-2019年
+2019
 
-**運営者**
+**Operator**
 
-Jesse Walden、Ameen Soleimani、その他有志
+Jesse Walden, Ameen Soleimani, and other volunteers
 
-**対象分野**
+**Target Areas**
 
-* Ethereum関連プロジェクト（インフラ開発、オープンソースソフトウェア、教育プログラム、プライバシー保護技術など）
+* Ethereum-related projects (infrastructure development, open source software, educational programs, privacy protection technologies, etc.)
 
-**目的**
+**Objectives**
 
-* Ethereumエコシステムを支える基盤技術の開発
-* 技術革新を促進し、オープンソースプロジェクトを支援
-* コミュニティ主導の資金分配モデルを確立
+* Developing foundational technologies supporting the Ethereum ecosystem
+* Promoting technological innovation and supporting open source projects
+* Establishing a community-led fund distribution model
 
-**成果**
+**Results**
 
-* 総調達額: 2021年時点で400万ドル以上
-* 支援プロジェクト数: 40以上（開発ツールや教育プログラムなど）
-* Ragequit機能: メンバーが資金を引き出す権利を保障し、コミュニティの健全性を維持
-
-***
-
-## 運用プロセス
-
-**資金調達**
-
-* メンバーの寄付を基に共有資金（トレジャリー）を形成。
-* 新規メンバーは「Tribute」として資金を提供し、シェア（投票権・財務権利）を獲得。
-* 「Loot Shares」を通じた二次的な資金提供も可能。
-
-**提案と投票**
-
-* メンバーがプロジェクト提案を提出し、既存メンバーのスポンサーを得ることで投票に進む。
-* 投票権はシェア数に基づき分配され、過半数の賛成で承認。
-
-**資金分配**
-
-* 承認された提案に基づき、トレジャリーから資金を配分。
-* 資金の流れはブロックチェーン上で公開され、透明性を確保。
-
-**Ragequit機能**
-
-* 提案に反対したメンバーが、猶予期間内に資金を引き出してDAOを離脱可能。
-
-**進捗管理とフィードバック**
-
-* 支援プロジェクトは進捗報告と成果物を提出。
-* メンバーはフィードバックを提供し、プロジェクトの改善をサポート。
+* Total funds raised: Over $4 million as of 2021
+* Number of supported projects: Over 40 (including development tools and educational programs)
+* Ragequit function: Ensuring members' right to withdraw funds and maintaining community health
 
 ***
 
-## 成果と特徴
+## Operational Process
 
-**成功事例**
+**Fundraising**
 
-* Ethereum関連のインフラ開発プロジェクトに資金提供し、エコシステムを支援。
-* 教育プログラムやコミュニティイベントを通じて、知識の普及とコミュニティの成長を促進。
-* Ragequit機能によりメンバーの信頼を向上。
+* Forming shared funds (treasury) based on member donations
+* New members provide funds as "Tribute" to acquire shares (voting rights and financial rights)
+* Secondary funding through "Loot Shares" is also possible
 
-**成功のポイント**
+**Proposals and Voting**
 
-* 透明性の高い資金分配プロセス
-* 小規模プロジェクトへの迅速な対応
-* メンバーの意見を直接反映するガバナンスモデル
+* Members submit project proposals and proceed to voting by obtaining sponsorship from existing members
+* Voting rights are distributed based on share count, with approval requiring majority support
 
-**課題**
+**Fund Distribution**
 
-* ガバナンスの複雑化による意思決定の難易度向上
-* メンバーの寄付に依存するため、経済状況による資金減少のリスク
-* Ragequitによる資金流出がコミュニティの安定性に影響
+* Distributing funds from the treasury based on approved proposals
+* Fund flows are published on the blockchain, ensuring transparency
+
+**Ragequit Function**
+
+* Members opposing proposals can withdraw funds and leave the DAO within the grace period
+
+**Progress Management and Feedback**
+
+* Supported projects submit progress reports and deliverables
+* Members provide feedback and support project improvement
 
 ***
 
-## 日本社会への応用可能性
+## Results and Characteristics
 
-**期待される効果**
+**Success Stories**
 
-* 透明性と説明責任の向上により、寄付文化の信頼性を高める
-* 公共プロジェクトの資金調達手段として活用
-* 異なる背景を持つ参加者の協力を促進し、革新的な解決策を模索
+* Providing funding to Ethereum-related infrastructure development projects, supporting the ecosystem
+* Promoting knowledge dissemination and community growth through educational programs and community events
+* Enhancing member trust through the Ragequit function
 
-**導入時の課題**
+**Keys to Success**
 
-* ブロックチェーン技術に不慣れな層への教育の必要性
-* 法規制や税制の不確実性への対応
-* 暗号資産やDAOに対する一般的な不信感を払拭するための普及活動 
+* Highly transparent fund distribution process
+* Rapid response to small-scale projects
+* Governance model directly reflecting member opinions
+
+**Challenges**
+
+* Increased difficulty in decision-making due to governance complexity
+* Risk of fund reduction due to economic conditions as it depends on member donations
+* Impact of fund outflow through Ragequit on community stability
+
+***
+
+## Potential Applications in Japanese Society
+
+**Expected Effects**
+
+* Enhancing trust in donation culture through improved transparency and accountability
+* Utilizing as a fundraising method for public projects
+* Promoting cooperation among participants with different backgrounds to explore innovative solutions
+
+**Implementation Challenges**
+
+* Need for education for those unfamiliar with blockchain technology
+* Need to address uncertainties in regulations and tax systems
+* Need for awareness activities to dispel general distrust of cryptocurrencies and DAOs 

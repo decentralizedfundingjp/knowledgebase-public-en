@@ -2,55 +2,55 @@
 sidebar_position: 3
 ---
 
-# 対象読者
+# Target Readers
 
-本書は、日本のソーシャルセクターで活動する以下の3つの主要な読者層を想定しています。それぞれが直面している課題を踏まえ、分散型資金分配の導入による可能性を提案します。
+This book is intended for three main reader groups active in Japan's social sector. Based on the challenges each group faces, we propose possibilities through the implementation of decentralized funding.
 
-**財団・基金（資金提供者）**
+**Foundations and Funds (Funders)**
 
-特徴:
+Characteristics:
 
-* 大規模な助成金プログラムを運営し、資金の分配や社会的インパクトの最大化を目指す組織。
-* 透明性と公平性を重視しつつも、従来の審査プロセスに限界を感じている。
+* Organizations that operate large-scale grant programs and aim to maximize fund distribution and social impact.
+* Value transparency and fairness but feel limitations with traditional review processes.
 
-本書を通じて得られる価値:
+Value gained through this book:
 
-* 分散型資金分配モデルの導入による審査工数の削減と効率化。
-* 寄付者や地域住民の声を反映させた支援の実現。
-* マッチングファンドや投票システムを活用した新たな資金分配方法の具体例とステップ。
+* Reduction and streamlining of review workload through implementing decentralized funding models.
+* Realization of support that reflects the voices of donors and local residents.
+* Concrete examples and steps for new funding distribution methods using matching funds and voting systems.
 
-例: Quadratic Fundingを試験導入することで、多様なプロジェクトに公平に資金を分配し、寄付市場の拡大を図る。
-
-***
-
-**NPO/NGO（事業者）**
-
-特徴:
-
-* 社会課題に取り組む中小規模の団体であり、慢性的な資金不足に悩む。
-* 支援者との信頼構築を目的に、透明性の向上を求めている。
-
-本書を通じて得られる価値:
-
-* 少額の資金から試せる分散型資金分配のモデルやツールの提供。
-* 資金分配のプロセスを可視化し、寄付者の信頼を得る方法。
-* 同じNPOによる実践事例をもとに、初期導入の参考となるステップバイステップガイド。
-
-例: コミュニティ投票を活用して、地域住民と協力しながら資金を確保し、プロジェクトを実現する。
+Example: Trial implementation of Quadratic Funding to distribute funds fairly to diverse projects and expand the donation market.
 
 ***
 
-**市民活動団体（インフォーマルな市民の集まり）**
+**NPOs/NGOs (Operators)**
 
-特徴:
+Characteristics:
 
-* 地域密着型の草の根団体で、住民参加型の活動を行っている。
-* 技術リソースや知識が限られており、シンプルな手法を求めている。
+* Small to medium-sized organizations tackling social issues, struggling with chronic funding shortages.
+* Seeking to improve transparency to build trust with supporters.
 
-本書を通じて得られる価値:
+Value gained through this book:
 
-* 簡単なツールや方法を用いて、小規模なプロジェクトで分散型資金分配を試行する方法。
-* 住民参加を促進し、地域課題を解決するための実践例。
-* 他団体の成功事例を基にした、すぐに活用可能なテンプレート。
+* Provision of decentralized funding models and tools that can be tested with small amounts of funding.
+* Methods to visualize the fund distribution process and gain donor trust.
+* Step-by-step guide for initial implementation based on practical cases from other NPOs.
 
-例: 地域イベントで住民投票を導入し、予算配分を透明かつ公平に行う。 
+Example: Securing funds and realizing projects through community voting in cooperation with local residents.
+
+***
+
+**Civic Groups (Informal Citizen Groups)**
+
+Characteristics:
+
+* Grassroots organizations conducting community-based, participatory activities.
+* Limited technical resources and knowledge, seeking simple methods.
+
+Value gained through this book:
+
+* Methods to trial decentralized funding in small-scale projects using simple tools and methods.
+* Practical examples for promoting resident participation and solving local issues.
+* Ready-to-use templates based on other organizations' success stories.
+
+Example: Implementing resident voting in local events to allocate budgets transparently and fairly. 

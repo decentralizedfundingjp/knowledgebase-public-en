@@ -11,4 +11,9 @@
 [[redirects]]
   from = "/*"
   to = "/index.html"
-  status = 200 
+  status = 200
+
+[[redirects]]
+  from = "/ja/*"
+  to = "https://decentralizedfunding.netlify.app/:splat"
+  status = 301 

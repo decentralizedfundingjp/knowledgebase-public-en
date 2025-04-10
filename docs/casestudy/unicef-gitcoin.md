@@ -5,104 +5,104 @@ sidebar_label: UNICEF-Gitcoin
 
 # UNICEF-Gitcoin Quadratic Funding Pilot
 
-**概要**
+**Overview**
 
-UNICEFとGitcoinが協力し、社会貢献プロジェクトを対象にした新しい資金分配モデル「Quadratic Funding（QF）」を試験導入。ブロックチェーン技術を活用し、透明性と公平性を追求しました。コミュニティ主導の意思決定で小規模寄付者の意見を反映する仕組みが特長です。
+UNICEF and Gitcoin collaborated to pilot a new fund distribution model called "Quadratic Funding (QF)" for social impact projects. Utilizing blockchain technology, they pursued transparency and fairness. The system is characterized by its community-led decision-making that reflects the opinions of small donors.
 
-**実施年**
+**Year of Implementation**
 
-2022年
+2022
 
-**運営者**
+**Operators**
 
-UNICEF Innovation Office、Gitcoin
+UNICEF Innovation Office, Gitcoin
 
-**対象分野**
+**Target Areas**
 
-* ブロックチェーンやAIを活用した社会課題解決プロジェクト
-* 具体例: 金融アクセス向上、教育・識字率の改善、環境保護、公共衛生支援
+* Social issue resolution projects utilizing blockchain and AI
+* Specific examples: Financial access improvement, education and literacy enhancement, environmental protection, public health support
 
-**目的**
+**Objectives**
 
-* 社会貢献プロジェクトの資金調達を促進
-* 公平で透明性の高い資金分配を実現
-* 小規模プロジェクトや地域特化型活動を支援
-* コミュニティ主導の意思決定で寄付者の意図を反映
+* Promote fundraising for social impact projects
+* Achieve fair and transparent fund distribution
+* Support small-scale projects and region-specific activities
+* Reflect donor intentions through community-led decision-making
 
-**成果**
+**Results**
 
-* 総調達額: 132.5 ETH（50 ETHマッチングプール + 67.5 ETH + 約15,000 DAI）
-* 寄付者数: 15,500人以上
-* 支援対象プロジェクト（国別）:
-  * StaTwig（インド）、Somleng（カンボジア）、XCapit（アルゼンチン）、Kotani Pay（ケニア）
-  * Simple Map（チリ）、Bioverse Labs（ブラジル）、Rahat（ネパール）、AEDES（フィリピン）
-
-***
-
-## 運用プロセス
-
-**プロジェクト選定**
-
-UNICEF Venture Fundの既存プロジェクトから10件を選出。選定基準は以下の通り:
-
-* ブロックチェーン技術やAIを活用
-* 社会的インパクトが高く、革新的であること
-* 「Digital Public Goods」として認定されているプロジェクト
-
-**マッチングプール設定**
-
-UNICEF CryptoFundが50 ETHを提供。マッチングファンドは寄付者の支援額を増幅させる役割を担う。
-
-**寄付募集期間の設定**
-
-* 期間: 2022年12月9日～21日（約2週間）
-* Gitcoinプラットフォームを活用し、SNS、ニュースレター、パートナーネットワークで広報活動を実施
-
-**寄付受付と分配計算**
-
-* 67.5 ETH + 約15,000 DAIをコミュニティから集め、QFアルゴリズムで分配額を算出
-* 小口寄付が多いプロジェクトが、マッチングファンドからより多くの支援を受けられる設計
-
-**結果発表と資金分配**
-
-* 投票と資金分配結果をブロックチェーン上に公開し、透明性を確保
-* 各プロジェクトに資金を配分し、結果を参加者へフィードバック
-
-**フォローアップ**
-
-* プロジェクトからフィードバックを収集し、運用効率や課題を分析
-* 今後の改善点を特定し、モデルの持続可能性を検討
+* Total funds raised: 132.5 ETH (50 ETH matching pool + 67.5 ETH + approximately 15,000 DAI)
+* Number of donors: Over 15,500
+* Supported projects (by country):
+  * StaTwig (India), Somleng (Cambodia), XCapit (Argentina), Kotani Pay (Kenya)
+  * Simple Map (Chile), Bioverse Labs (Brazil), Rahat (Nepal), AEDES (Philippines)
 
 ***
 
-## 成果と特徴
+## Operational Process
 
-**成功のポイント**
+**Project Selection**
 
-* 透明性の向上: ブロックチェーンによる資金の流れの可視化
-* 小額寄付の活用: 少額の寄付でも大きなインパクトを生む仕組み
-* 寄付者層の拡大: 新規層や若年層が参加
+Selected 10 projects from UNICEF Venture Fund's existing projects. Selection criteria were as follows:
 
-**課題**
+* Utilization of blockchain technology or AI
+* High social impact and innovation
+* Projects certified as "Digital Public Goods"
 
-* 技術教育
-  * 寄付者やプロジェクト担当者に対するブロックチェーンやデジタルウォレットの理解促進が必要
-* 法規制の適応
-  * 暗号資産規制や税制との調整が不可欠
-* 持続可能性
-  * コミュニティ参加を継続的に促す仕組みの構築が求められる
+**Matching Pool Setup**
+
+UNICEF CryptoFund provided 50 ETH. Matching funds played a role in amplifying donor support amounts.
+
+**Donation Period Setting**
+
+* Period: December 9-21, 2022 (approximately 2 weeks)
+* Utilized Gitcoin platform and conducted PR activities through SNS, newsletters, and partner networks
+
+**Donation Acceptance and Distribution Calculation**
+
+* Collected 67.5 ETH + approximately 15,000 DAI from the community and calculated distribution amounts using QF algorithm
+* Designed so that projects with many small donations receive more support from matching funds
+
+**Result Announcement and Fund Distribution**
+
+* Published voting and fund distribution results on the blockchain to ensure transparency
+* Distributed funds to each project and provided feedback to participants
+
+**Follow-up**
+
+* Collected feedback from projects and analyzed operational efficiency and challenges
+* Identified future improvement points and considered model sustainability
 
 ***
 
-## 日本社会への応用可能性
+## Results and Characteristics
 
-**期待される効果**
+**Keys to Success**
 
-* 資金分配の透明性向上と信頼性確保
-* 小規模プロジェクトや地域課題解決への適用
-* 若年層を中心とした新規寄付者層の拡大
+* Enhanced transparency: Visualization of fund flows through blockchain
+* Utilization of small donations: Mechanism that creates significant impact even with small donations
+* Expansion of donor base: Participation from new demographics and younger generations
 
-**導入時の課題**
+**Challenges**
 
-* デジタルリテラシー向上と教育活動
-* 日本独自の法規制や税制への適応 
+* Technical Education
+  * Need to promote understanding of blockchain and digital wallets among donors and project managers
+* Regulatory Adaptation
+  * Essential to coordinate with cryptocurrency regulations and tax systems
+* Sustainability
+  * Need to build mechanisms to continuously encourage community participation
+
+***
+
+## Potential Applications in Japanese Society
+
+**Expected Effects**
+
+* Enhanced transparency in fund distribution and ensuring reliability
+* Application to small-scale projects and regional issue resolution
+* Expansion of new donor base, particularly among younger generations
+
+**Implementation Challenges**
+
+* Digital literacy improvement and educational activities
+* Adaptation to Japan-specific regulations and tax systems 

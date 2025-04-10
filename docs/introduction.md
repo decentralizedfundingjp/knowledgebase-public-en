@@ -2,32 +2,32 @@
 sidebar_position: 1
 ---
 
-# 背景
+# Background
 
-#### 日本のソーシャルセクターにおける課題と現状
+#### Challenges and Current State in Japan's Social Sector
 
-日本のソーシャルセクター（財団、NPO法人、市民団体など）は、多くの社会課題に取り組む一方で、資金分配の仕組みや信頼性の面でいくつかの課題に直面しています。具体的には以下のような問題があります：
+Japan's social sector (including foundations, NPOs, and citizen groups) faces several challenges in terms of funding distribution mechanisms and trust, despite actively addressing many social issues. The specific problems include:
 
-1. 資金分配の不透明性と偏り\
-   現在の中央集権的な助成金や寄付の分配システムでは、審査が一部の権限者に委ねられ、支援の決定が閉鎖的です。このため、イノベーティブな新規事業や少数派の声が届きにくい状況が続いています。
+1. Lack of Transparency and Bias in Funding Distribution\
+   In the current centralized grant and donation distribution system, decision-making is delegated to a limited number of authorities, making the support process closed. This has led to a situation where innovative new initiatives and minority voices struggle to be heard.
 
-2. 寄付市場の停滞\
-   寄付市場が小規模である背景には、資金の流れや使途に対する透明性の欠如が挙げられます。これにより寄付者の信頼が得られず、結果として寄付の拡大が妨げられています。
+2. Stagnation in the Donation Market\
+   The small size of the donation market is partly due to a lack of transparency in fund flows and usage. This has resulted in a lack of donor trust, ultimately hindering the growth of donations.
 
-3. 市民参加の希薄化\
-   他国に比べて日本では市民活動への参加が低調です。これは、社会課題解決に向けた市民一人一人の役割や意義が十分に認識されていないためです。
+3. Weak Citizen Participation\
+   Compared to other countries, citizen participation in social activities in Japan is low. This is because the role and significance of each citizen in addressing social issues is not fully recognized.
 
-#### 分散型資金分配の可能性
+#### Potential of Decentralized Funding Distribution
 
-これらの課題に対して、分散型資金分配は新しい解決策を提示します。このモデルでは、ブロックチェーン技術やアルゴリズムを活用し、寄付者や市民が直接意思決定に関与します。これにより、以下の変化が期待されます：
+Decentralized funding distribution offers new solutions to these challenges. This model utilizes blockchain technology and algorithms to enable donors and citizens to directly participate in decision-making. This is expected to bring about the following changes:
 
-* 透明性と公平性の向上\
-  資金分配プロセスを公開し、寄付者や市民がその流れを把握できることで信頼が向上します。
+* Enhanced Transparency and Fairness\
+   By making the funding distribution process public and allowing donors and citizens to track fund flows, trust can be improved.
 
-* 小規模な声の反映\
-  少額の寄付や地域住民の意見を効果的に反映することで、多様な視点を活かした意思決定が可能となります。
+* Reflection of Small Voices\
+   By effectively incorporating small donations and local community opinions, decision-making that leverages diverse perspectives becomes possible.
 
-* 市民参加の促進\
-  寄付行動が単なる資金提供ではなく、社会課題解決への直接的な関与と感じられるため、市民のエンゲージメントが高まります。
+* Promotion of Citizen Participation\
+   When donation actions are perceived not just as financial contributions but as direct involvement in solving social issues, citizen engagement increases.
 
-これらの効果は、すでに海外のいくつかの事例で実証されています。例えば、Gitcoin GrantsのQuadratic FundingモデルやUNICEFとGitcoinの共同プロジェクトでは、小口寄付を効果的に活用し、資金分配の透明性と公平性を実現しました。 
+These effects have already been demonstrated in several overseas cases. For example, Gitcoin Grants' Quadratic Funding model and the joint project between UNICEF and Gitcoin have effectively utilized small donations to achieve transparency and fairness in funding distribution. 

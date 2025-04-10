@@ -2,32 +2,32 @@
 sidebar_position: 2
 ---
 
-# ガイドブックの目的
+# Guidebook Purpose
 
-このガイドブックは、日本のソーシャルセクターが分散型資金分配の仕組みを理解し、小規模な実験を通じて実践に移すための道筋を提供することを目指しています。以下にその具体的な目的を示します：
+This guidebook aims to provide Japanese social sector organizations with a path to understand decentralized funding mechanisms and implement them through small-scale experiments. The specific objectives are as follows:
 
-#### 小規模な実験の促進
+#### Promoting Small-Scale Experiments
 
-日本のソーシャルセクターでは、分散型資金分配を導入するための経験や成功事例がまだ限られています。そのため、まずは小規模なプロジェクトや地域イベントでの実験的導入を支援します。具体例として以下が挙げられます：
+The Japanese social sector still has limited experience and success stories in implementing decentralized funding. Therefore, we first support experimental implementation in small projects and local events. Specific examples include:
 
-* 地域イベントでの試行\
-  住民投票型の予算配分を導入し、住民参加型の資金分配モデルを検証します。
+* Local Event Trials\
+  Introducing participatory budget allocation to verify community-driven funding models.
 
-* 小口寄付を活用した実験\
-  Quadratic Fundingを活用し、少額寄付がどのようにプロジェクトの評価と資金配分に影響を与えるかを試みます。
+* Small Donation Experiments\
+  Utilizing Quadratic Funding to test how small donations affect project evaluation and fund distribution.
 
-これにより、成功事例や課題を蓄積し、将来的な大規模展開への基盤を築くことを目指します。
+Through this, we aim to accumulate success stories and challenges, building a foundation for future large-scale implementation.
 
-#### 分散型資金分配における「共通言語」の形成
+#### Forming a "Common Language" for Decentralized Funding
 
-ガイドブックは、分散型資金分配に関する議論のための基盤となる「共通言語」を提供します。これは以下の効果をもたらします：
+The guidebook provides a "common language" as a foundation for discussions about decentralized funding. This brings the following effects:
 
-* 知識共有の促進\
-  財団、NPO、自治体など異なる立場の実践者が、共通のフレームワークを基に議論できるようになります。
+* Promoting Knowledge Sharing\
+  Practitioners from different positions such as foundations, NPOs, and local governments can discuss based on a common framework.
 
-* 学びと改善の循環\
-  実験を通じて得られた知見をフィードバックし、ガイドブックの内容を進化させることが可能です。
+* Learning and Improvement Cycle\
+  It is possible to provide feedback on insights gained through experiments and evolve the guidebook's content.
 
-#### 日本独自モデルの構築と発信
+#### Building and Disseminating Japan-Specific Models
 
-長期的には、日本のソーシャルセクターに適した分散型資金分配のローカライズを進め、その成果を世界に発信することを目指します。具体的には、高齢化社会や地方自治の特性を活かしたモデル構築などが含まれます。 
+In the long term, we aim to localize decentralized funding to suit the Japanese social sector and share the results with the world. Specifically, this includes building models that leverage characteristics such as an aging society and local governance. 

@@ -1,66 +1,66 @@
 ---
-title: はじめに
+title: Getting Started
 sidebar_position: 1
-description: 分散型資金調達ナレッジベースの目的と概要について説明します
+description: Explains the purpose and overview of the Decentralized Funding Knowledge Base
 ---
 
-# はじめに
+# Getting Started
 
-## このナレッジベースについて
+## About This Knowledge Base
 
-このナレッジベースは、分散型資金調達（Decentralized Funding）に関する情報を集約し、誰もがアクセスできる形で提供することを目的としています。分散型資金調達は、ブロックチェーン技術を活用した新しい資金調達の形として注目を集めています。
+This knowledge base aims to aggregate information about Decentralized Funding and provide it in an accessible format for everyone. Decentralized Funding is gaining attention as a new form of fundraising that utilizes blockchain technology.
 
-## なぜ分散型資金調達なのか
+## Why Decentralized Funding?
 
-従来の資金調達方法には、以下のような課題がありました：
+Traditional fundraising methods have faced several challenges:
 
-- 中央集権的な意思決定プロセス
-- 限られた人々による資金配分
-- 透明性の欠如
-- 地理的・制度的な制約
+- Centralized decision-making processes
+- Limited number of people involved in fund allocation
+- Lack of transparency
+- Geographical and institutional constraints
 
-分散型資金調達は、これらの課題を解決する可能性を秘めています：
+Decentralized Funding has the potential to address these challenges:
 
-- コミュニティによる民主的な意思決定
-- より広範な参加者による資金配分
-- ブロックチェーンによる透明性の確保
-- グローバルな参加の可能性
+- Democratic decision-making by the community
+- Broader participation in fund allocation
+- Transparency ensured by blockchain
+- Possibility of global participation
 
-## このナレッジベースの特徴
+## Features of This Knowledge Base
 
-1. **包括的な情報提供**
-   - 分散型資金調達の基本的な概念から、具体的な実装方法までを網羅
-   - 国内外の事例研究を収集・分析
+1. **Comprehensive Information**
+   - Covers everything from basic concepts to specific implementation methods
+   - Collects and analyzes case studies from both domestic and international sources
 
-2. **実践的なガイド**
-   - 実際のプロジェクトで活用できる具体的な手順やノウハウ
-   - 技術的な実装方法の解説
+2. **Practical Guides**
+   - Concrete procedures and know-how that can be applied to actual projects
+   - Explanations of technical implementation methods
 
-3. **オープンな協力体制**
-   - 誰もが編集に参加できるオープンな仕組み
-   - コミュニティによる継続的な改善
+3. **Open Collaboration**
+   - Open system where anyone can participate in editing
+   - Continuous improvement through community involvement
 
-## このナレッジベースの使い方
+## How to Use This Knowledge Base
 
-1. **基本的な理解**
-   - 「はじめに」から順に読み進めることで、分散型資金調達の全体像を把握できます
-   - 専門用語は初出時に説明を加えています
+1. **Basic Understanding**
+   - Start with "Getting Started" to grasp the overall picture of Decentralized Funding
+   - Technical terms are explained upon first use
 
-2. **具体的な実装**
-   - 各モデルの説明や事例研究を参考に、実際のプロジェクトに応用できます
-   - 技術的な実装方法は、ブロックチェーンセクションで詳しく解説しています
+2. **Specific Implementation**
+   - Apply the model descriptions and case studies to your actual projects
+   - Technical implementation methods are detailed in the Blockchain section
 
-3. **継続的な改善**
-   - 新しい情報や事例は随時追加されます
-   - 皆様からのフィードバックや提案をお待ちしています
+3. **Continuous Improvement**
+   - New information and case studies are added regularly
+   - We welcome your feedback and suggestions
 
-## 今後の展望
+## Future Outlook
 
-このナレッジベースは、以下の方向性で発展させていく予定です：
+This knowledge base is planned to develop in the following directions:
 
-- より多くの事例研究の追加
-- 技術的な実装方法の詳細化
-- 多言語対応の拡充
-- コミュニティ参加の促進
+- Addition of more case studies
+- Detailed technical implementation methods
+- Expansion of multilingual support
+- Promotion of community participation
 
-皆様のご協力を通じて、より充実したナレッジベースを作り上げていきたいと考えています。 
+We look forward to building a more comprehensive knowledge base through your cooperation. 

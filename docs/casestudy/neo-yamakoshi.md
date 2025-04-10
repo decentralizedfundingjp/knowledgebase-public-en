@@ -1,94 +1,94 @@
 ---
-title: ネオ山古志村プロジェクト
-sidebar_label: ネオ山古志村
+title: Neo Yamakoshi Village Project
+sidebar_label: Neo Yamakoshi
 ---
 
-# ネオ山古志村プロジェクト
+# Neo Yamakoshi Village Project
 
-**概要**
+**Overview**
 
-新潟県長岡市山古志地域の活性化を目指し、伝統文化である「錦鯉」をテーマにしたNFT（Nishikigoi NFT）を活用した革新的なプロジェクト。ブロックチェーン技術とDAOの概念を組み合わせ、デジタルとリアルの融合による新しい地域コミュニティを形成。
+An innovative project aimed at revitalizing the Yamakoshi area in Nagaoka City, Niigata Prefecture, utilizing NFTs themed around the traditional "Nishikigoi" (koi fish) culture. By combining blockchain technology with DAO concepts, it forms a new regional community that integrates digital and real-world elements.
 
-**実施年**
+**Year of Implementation**
 
-2021年
+2021
 
-**運営者**
+**Operator**
 
-Nishikigoi NFTホルダー
+Nishikigoi NFT Holders
 
-**対象分野**
+**Target Areas**
 
-* 地域活性化
-* NFTアート
-* ブロックチェーン技術
-* DAO（分散型自律組織）
+* Regional revitalization
+* NFT art
+* Blockchain technology
+* DAO (Decentralized Autonomous Organization)
 
-**目的**
+**Objectives**
 
-* 山古志地域の活性化と関係人口の創出
-* NFT保有者（デジタル村民）の参加を通じた地域プロジェクトへの貢献
-* 地域経済活動の活性化と持続可能な地域社会の構築
+* Revitalization of the Yamakoshi area and creation of related population
+* Contribution to regional projects through NFT holders (digital villagers)
+* Activation of regional economic activities and construction of sustainable local communities
 
-**成果**
+**Results**
 
-* 総調達額: 1,500万円（NFT売上）
-* デジタル村民の獲得: 1,500人以上
-* 採択されたプラン: メタバースでの山古志体験構築、NFT保有者数世界一の村を目指す、デジタル村民の訪問ビデオ制作など
-* 国際的な注目: 国内外から地域活性化モデルとして高評価
-
-***
-
-## 運用プロセス
-
-**NFT販売**
-
-* 2021年12月（第1期）と2022年3月（第2期）にNFTを販売し、約1,500点を販売
-* 売上の約30%を地域活性化プロジェクトに配分
-
-**デジタル村民総選挙（2022年）**
-
-* 提案された12の事業プランから、投票プラットフォーム「Snapshot」を活用して4つを採択
-* YES/NO方式の投票で選ばれたプランに1,000,000円を配分
-
-**採択プランの実施例**
-
-* メタバース空間で山古志体験を再現
-* 山古志訪問を基に新たなNFTを制作し、売上を地域プロジェクトに再投資
-
-**コミュニティ形成**
-
-* デジタル村民とリアル村民が協力し、地域課題を解決する新しい形のコミュニティを構築
+* Total funds raised: 15 million yen (NFT sales)
+* Digital villagers acquired: Over 1,500 people
+* Adopted plans: Building Yamakoshi experiences in the metaverse, aiming to become the village with the most NFT holders in the world, creating visit videos for digital villagers
+* International attention: Highly evaluated as a regional revitalization model both domestically and internationally
 
 ***
 
-## 成果と特徴
+## Operational Process
 
-**成功のポイント**
+**NFT Sales**
 
-* 透明性: ブロックチェーン上で投票結果と資金配分を公開
-* 多様な視点の活用: 地理的制約を超えたアイデアの収集と実施
-* 経済的持続性: NFTの販売と二次流通ロイヤリティ収益を活用
+* NFTs were sold in December 2021 (Phase 1) and March 2022 (Phase 2), with approximately 1,500 pieces sold
+* About 30% of sales revenue was allocated to regional revitalization projects
 
-**課題**
+**Digital Villager General Election (2022)**
 
-* デジタル格差
-  * 高齢者などデジタル技術に不慣れな層への対応が必要
-* 持続可能性
-  * NFT販売に依存しない収益モデルの確立が課題
-* 法規制
-  * NFTやDAOに関する日本の法規制との整合性が必要
+* From 12 proposed business plans, 4 were selected using the voting platform "Snapshot"
+* 1,000,000 yen was allocated to plans chosen through YES/NO voting
+
+**Examples of Adopted Plans**
+
+* Recreating Yamakoshi experiences in metaverse spaces
+* Creating new NFTs based on Yamakoshi visits and reinvesting sales revenue into regional projects
+
+**Community Formation**
+
+* Building a new form of community where digital and real villagers collaborate to solve regional issues
 
 ***
 
-## 日本社会への応用可能性
+## Results and Characteristics
 
-**期待される効果**
+**Keys to Success**
 
-* 地域文化のデジタル保存と普及
-* 地理的制約を超えた支援者の獲得
-* 地域主導の意思決定と資金調達モデルの普及
+* Transparency: Publishing voting results and fund allocation on the blockchain
+* Utilizing diverse perspectives: Collecting and implementing ideas beyond geographical constraints
+* Economic sustainability: Utilizing NFT sales and secondary market royalty revenue
 
-**導入時の課題**
+**Challenges**
 
-* 法規制のクリアとデジタルリテラシー向上の取り組みが必要 
+* Digital divide
+  * Need to address elderly and other groups unfamiliar with digital technology
+* Sustainability
+  * Need to establish revenue models not dependent on NFT sales
+* Legal regulations
+  * Need to align with Japanese regulations regarding NFTs and DAOs
+
+***
+
+## Potential Applications in Japanese Society
+
+**Expected Effects**
+
+* Digital preservation and dissemination of regional culture
+* Acquisition of supporters beyond geographical constraints
+* Spread of region-led decision-making and fundraising models
+
+**Implementation Challenges**
+
+* Need to clear legal regulations and improve digital literacy 

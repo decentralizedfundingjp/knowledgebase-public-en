@@ -14,7 +14,7 @@ const sidebars = {
     'guidebook-usage',
     {
       type: 'category',
-      label: 'モデル',
+      label: 'Models',
       items: [
         'models/model-overview',
         'models/model-quadratic-funding',
@@ -25,7 +25,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '事例研究',
+      label: 'Case Studies',
       items: [
         'casestudy/about-case-studies',
         'casestudy/project-catalyst',
@@ -41,14 +41,14 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'ブロックチェーン',
+      label: 'Blockchain',
       items: [
         'blockchain/blockchain-implementation',
       ],
     },
     {
       type: 'category',
-      label: '課題',
+      label: 'Challenges',
       items: [
         'challenges/challenges-legal',
         'challenges/challenges-operational',
@@ -56,7 +56,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'ビジョン',
+      label: 'Vision',
       items: [
         'notes/vision-long-term',
       ],

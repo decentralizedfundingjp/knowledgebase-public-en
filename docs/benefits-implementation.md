@@ -1,39 +1,39 @@
 ---
-title: 分散型資金分配で実現する変化
+title: Changes Realized Through Decentralized Funding
 sidebar_position: 2
-description: 分散型資金分配の導入によって実現される具体的なメリットについて説明します
+description: Explains the specific benefits achieved by implementing decentralized funding
 ---
 
-# 分散型資金分配で実現する変化
+# Changes Realized Through Decentralized Funding
 
-分散型資金分配を導入することで、従来の資金分配モデルにはない革新的な変化を実現できます。本節では、その具体的なメリットを以下に示します。
+By introducing decentralized funding, we can achieve innovative changes that were not possible with traditional funding distribution models. This section outlines the specific benefits:
 
-## 公平性と透明性の向上
+## Enhanced Fairness and Transparency
 
-従来のモデルでは、審査基準や資金の使途が不透明であることが多く、寄付者や市民の信頼を損なう要因となっていました。分散型資金分配はこれを改善します。
+Traditional models often lacked transparency in review criteria and fund usage, which undermined trust among donors and citizens. Decentralized funding addresses this issue.
 
-### 透明性の確保
-ブロックチェーン技術を活用することで、投票結果や資金の流れが公開され、不正や疑念が排除されます。これにより、寄付者は自身の資金がどのように使われるのかを安心して確認できます。
+### Ensuring Transparency
+By utilizing blockchain technology, voting results and fund flows are made public, eliminating fraud and suspicion. This allows donors to confidently verify how their funds are being used.
 
-### 公平な評価
-小規模な声や少額の寄付も、透明なルールに基づいて評価されます。例えば、Quadratic Fundingでは少額寄付が多く集まるプロジェクトが高く評価され、資金を受け取る可能性が増加します。
+### Fair Evaluation
+Small voices and small donations are evaluated based on transparent rules. For example, in Quadratic Funding, projects that collect many small donations are highly valued and have an increased chance of receiving funds.
 
-## 参加型意思決定の導入
+## Introduction of Participatory Decision-Making
 
-中央集権的な意思決定では、寄付者や地域住民の意見が反映されにくいという課題がありました。分散型資金分配は、これを根本的に変える仕組みを提供します。
+Centralized decision-making often struggled to reflect the opinions of donors and local residents. Decentralized funding provides mechanisms to fundamentally change this.
 
-### 市民参加の促進
-寄付者や市民が意思決定に参加することで、自分たちの意見や価値観を直接反映させることができます。これにより、資金分配が単なる支援行動ではなく、社会課題解決への積極的な関与と感じられるようになります。
+### Promoting Citizen Participation
+By allowing donors and citizens to participate in decision-making, they can directly reflect their opinions and values. This transforms funding distribution from mere support actions into active engagement in solving social issues.
 
-### 多様な視点の統合
-コミュニティ投票や委任型審査会を通じて、専門家の知見と市民の視点を融合した意思決定が可能になります。
+### Integration of Diverse Perspectives
+Through community voting and delegated review committees, it becomes possible to make decisions that combine expert knowledge with citizen perspectives.
 
-## 小規模な声や支援の評価
+## Evaluation of Small Voices and Support
 
-従来の資金分配では、大規模なプロジェクトや影響力の大きい組織が優先され、小規模な声が埋もれがちでした。分散型資金分配では、このような問題を解決します。
+In traditional funding distribution, large-scale projects and influential organizations were prioritized, often overshadowing small voices. Decentralized funding solves this problem.
 
-### 小規模プロジェクトの支援
-少額の寄付や小規模な提案でも、投票やアルゴリズムによって公平に評価されるため、社会課題解決の幅が広がります。
+### Supporting Small-Scale Projects
+Even small donations and proposals are fairly evaluated through voting and algorithms, expanding the scope of social issue solutions.
 
-### 多様な課題への対応
-寄付者が興味を持つテーマに直接資金を振り向けられる仕組みが整い、ニッチな社会課題にも対応できます。 
+### Addressing Diverse Issues
+Mechanisms that allow donors to direct funds to themes they are interested in enable responses to niche social issues. 

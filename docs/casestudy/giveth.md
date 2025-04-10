@@ -5,129 +5,130 @@ sidebar_label: Giveth
 
 # Giveth
 
-**概要**
+**Overview**
 
-Givethは、ブロックチェーン技術を活用した分散型寄付プラットフォームです。世界中のプロジェクトへ仮想通貨を使って簡単に寄付できる仕組みを提供し、寄付金の透明性を確保するとともに、迅速かつ直接的な支援を可能にしています。特に、災害支援や紛争地の支援プロジェクトで成果を上げており、Quadratic Fundingを中心とした独自の資金分配モデルを採用しています。
+Giveth is a decentralized donation platform utilizing blockchain technology. It provides a mechanism for easily donating cryptocurrency to projects worldwide, ensuring transparency in donations while enabling rapid and direct support. The platform has achieved significant results, particularly in disaster relief and conflict zone support projects, employing a unique fund distribution model centered on Quadratic Funding.
 
-**実施年**
+**Year of Implementation**
 
-2017年
+2017
 
-**運営者**
+**Operators**
 
 Giveth DAO
 
-**対象分野**
+**Target Areas**
 
-* 天災や紛争地支援（例: トルコとシリアの地震救済プロジェクト）
-* オープンソースソフトウェアの支援
-* 社会貢献プロジェクトやデジタル公共財
+* Disaster and conflict zone support (e.g., earthquake relief projects in Turkey and Syria)
+* Open source software support
+* Social impact projects and digital public goods
 
-**目的**
+**Objectives**
 
-* 世界中の誰もが寄付を簡単に行える仕組みの提供
-* 透明で効率的な資金分配を通じて社会的影響を最大化
-* 小規模寄付の価値を高め、民主化された寄付文化を促進
+* Provide a mechanism for anyone worldwide to easily make donations
+* Maximize social impact through transparent and efficient fund distribution
+* Enhance the value of small donations and promote a democratized donation culture
 
-**成果**
+**Results**
 
-* 総寄付額: 約3,050,935ドル
-* 支援プロジェクト数: 6,191件
-* トッププロジェクト例:
-  * Giveth Matching Pool: 293,101ドル
-  * PCRF - Palestine Children's Relief Fund: 15,085ドル
+* Total donations: Approximately $3,050,935
+* Number of supported projects: 6,191
+* Top project examples:
+  * Giveth Matching Pool: $293,101
+  * PCRF - Palestine Children's Relief Fund: $15,085
 
 ***
 
-## 資金分配モデル
+## Fund Distribution Model
 
-**Quadratic Fundingの採用**
+**Quadratic Funding Implementation**
 
-Quadratic Funding（QF）は、少額寄付の影響を拡大する資金分配モデルです。このモデルは寄付者数に基づいてマッチング資金を分配し、多くの人々が支援するプロジェクトがより多くの資金を受け取る仕組みを実現します。
+Quadratic Funding (QF) is a fund distribution model that amplifies the impact of small donations. This model distributes matching funds based on the number of donors, ensuring that projects supported by many people receive more funding.
 
-1. 仕組み
-   * 各寄付者の寄付金額の平方根を合計し、その値の二乗をマッチング額として算出。
-   * 少額寄付者が多いプロジェクトに、より大きなマッチング資金を提供。
+1. Mechanism
+   * Calculate the square root of each donor's contribution amount and sum these values.
+   * Square the sum to determine the matching amount.
+   * Projects with more small donors receive larger matching funds.
 
-2. 効果
-   * 幅広い寄付者を巻き込み、多様なプロジェクトへの資金配分を促進。
-   * 小規模寄付者の影響力を増幅し、草の根活動を支援。
+2. Effects
+   * Engage a wide range of donors and promote diverse project funding.
+   * Amplify the influence of small donors and support grassroots activities.
 
-**寄付インセンティブプログラム**
+**Donation Incentive Programs**
 
-1. GIVbacksプログラム
-   * 寄付者は、特定のプロジェクトに寄付を行うことでGIVトークンを受け取る。
-   * トークンはステーキングやプロジェクトの評価に利用可能。
+1. GIVbacks Program
+   * Donors receive GIV tokens for contributing to specific projects.
+   * Tokens can be used for staking and project evaluation.
 
 2. GIVpower
-   * GIVトークンをステークすることでGIVpowerを獲得。
-   * プロジェクトのブーストに使用され、注目度を向上させる効果あり。
+   * Stake GIV tokens to earn GIVpower.
+   * Use GIVpower to boost projects and increase their visibility.
 
-3. GURVESとGIVfi（計画中）
-   * GURVES: プロジェクト独自のトークン経済を構築する仕組み。
-   * GIVfi: 未使用寄付金を活用し、エコシステム全体の持続可能性を向上させるシステム。
-
-***
-
-## 成果と特徴
-
-**成功事例**
-
-* 災害支援: トルコとシリアの地震救済プロジェクトで迅速な寄付金の分配を実現。
-* GIVbacksプログラム: 2000以上のプロジェクトが対象となり、寄付者にトークンを還元。
-* Quadratic Fundingの導入: 小規模寄付を活かした公平な資金分配モデルを確立。
-
-**成功のポイント**
-
-* 透明性の向上: ブロックチェーン技術により寄付金の流れを可視化。
-* コミュニティ参加の促進: 寄付者がプロジェクト選定に関与し、より多くの参加を促進。
-* 効率性の向上: 従来の寄付プラットフォームに比べ、迅速かつ直接的な資金配分を実現。
-
-**課題**
-
-1. 技術的ハードル
-   * 仮想通貨やブロックチェーンに不慣れなユーザーへの教育が必要。
-
-2. 法規制への対応
-   * 日本の寄付税制や規制に適合させるための調整が求められる。
-
-3. 文化的適応
-   * 日本の匿名寄付文化とブロックチェーンの透明性を調和させる必要あり。
+3. GURVES and GIVfi (Planned)
+   * GURVES: A mechanism for building project-specific token economies.
+   * GIVfi: A system utilizing unused donations to enhance the sustainability of the entire ecosystem.
 
 ***
 
-## 日本社会での応用可能性
+## Results and Characteristics
 
-**期待される効果**
+**Success Stories**
 
-* 透明性と信頼性の向上: 寄付金の流れを可視化し、信頼性を強化。
-* 小規模寄付の価値向上: Quadratic Fundingを活用し、草の根活動を支援。
-* プロジェクトの自律性支援: 日本の法規制に適応させたGURVESの導入で、持続可能なプロジェクト運営を実現。
+* Disaster Relief: Achieved rapid fund distribution for earthquake relief projects in Turkey and Syria.
+* GIVbacks Program: Over 2,000 projects participated, returning tokens to donors.
+* Quadratic Funding Implementation: Established a fair fund distribution model leveraging small donations.
 
-**導入時の課題**
+**Key Success Factors**
 
-1. 教育活動の必要性
-   * 仮想通貨やブロックチェーン技術に関する理解を深めるための啓蒙活動が必要。
-   * 寄付者やプロジェクト運営者向けのトレーニングプログラムの開発。
+* Enhanced Transparency: Visualize fund flows using blockchain technology.
+* Community Participation: Involve donors in project selection to encourage greater participation.
+* Improved Efficiency: Achieve faster and more direct fund distribution compared to traditional donation platforms.
 
-2. 法規制への対応
-   * 日本の寄付税制や仮想通貨関連法規との整合性を確保。
-   * 税務申告や会計処理の簡素化に向けたシステム開発。
+**Challenges**
 
-3. 文化的適応
-   * 匿名性と透明性のバランスを考慮したシステム設計。
-   * 日本の寄付文化に合わせたUI/UXの最適化。
+1. Technical Barriers
+   * Need for education on cryptocurrency and blockchain for unfamiliar users.
 
-**具体的な導入シナリオ**
+2. Regulatory Compliance
+   * Adjustments required to align with Japanese donation tax systems and regulations.
 
-1. 災害支援プロジェクト
-   * 迅速な寄付金の集約と分配を実現。
-   * 被災地のニーズに応じた柔軟な資金配分。
+3. Cultural Adaptation
+   * Need to harmonize Japanese anonymous donation culture with blockchain transparency.
 
-2. 地域活性化プロジェクト
-   * 地域課題の解決に向けた資金調達。
-   * 地域住民の参加を促すインセンティブ設計。
+***
 
-3. 社会起業家支援
-   * 革新的な社会課題解決プロジェクトへの資金提供。
-   * 持続可能なビジネスモデルの構築支援。 
+## Potential Applications in Japanese Society
+
+**Expected Effects**
+
+* Enhanced Transparency and Trust: Visualize donation flows to strengthen trust.
+* Increased Value of Small Donations: Support grassroots activities using Quadratic Funding.
+* Project Autonomy Support: Implement GURVES adapted to Japanese regulations for sustainable project management.
+
+**Implementation Challenges**
+
+1. Need for Educational Activities
+   * Awareness campaigns needed to deepen understanding of cryptocurrency and blockchain technology.
+   * Development of training programs for donors and project operators.
+
+2. Regulatory Compliance
+   * Ensure alignment with Japanese donation tax systems and cryptocurrency regulations.
+   * System development to simplify tax reporting and accounting processes.
+
+3. Cultural Adaptation
+   * System design considering the balance between anonymity and transparency.
+   * UI/UX optimization aligned with Japanese donation culture.
+
+**Specific Implementation Scenarios**
+
+1. Disaster Relief Projects
+   * Achieve rapid collection and distribution of donations.
+   * Flexible fund allocation based on disaster area needs.
+
+2. Regional Revitalization Projects
+   * Fundraising for solving regional issues.
+   * Incentive design to encourage local community participation.
+
+3. Social Entrepreneur Support
+   * Funding for innovative social issue resolution projects.
+   * Support for building sustainable business models. 

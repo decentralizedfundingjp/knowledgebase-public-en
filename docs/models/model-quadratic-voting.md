@@ -1,110 +1,110 @@
 ---
-title: クアドラティックボーティング（QV）
+title: Quadratic Voting (QV)
 sidebar_position: 3
-description: クアドラティックボーティングの概要、実装手順、ツール、成功事例について説明します。
+description: Overview, implementation steps, tools, and success stories of Quadratic Voting.
 ---
 
-# クアドラティックボーティング（QV）
+# Quadratic Voting (QV)
 
-#### 概要
+#### Summary
 
-**実施主体**
-* 財団や基金
-* 政治機関や地方自治体
+**Practitioners**
+* Foundations and funds
+* Political institutions and local governments
 
-**目的**
-* 投票者の少数意見を反映しやすくする
-* 意思決定プロセスの公平性を向上
-* 一部の投票者による影響力の集中を防止
+**Purpose**
+* Make it easier to reflect minority opinions of voters
+* Improve fairness in decision-making processes
+* Prevent concentration of influence by a subset of voters
 
-**必要なリソース**
-* 投票プラットフォーム
-  * Snapshot、Tallyなどの高い透明性を持つツール
-* ガバナンス運営サポート
-  * 投票プロセスの管理と透明性確保のためのチームとツール
-* 教育・普及コスト
-  * 投票者がメカニズムを理解するための資料やガイドライン
-
-***
-
-#### 詳細説明
-
-クアドラティックボーティング（QV）は、投票者が票を購入する際にコストが投票数に比例して増加する仕組みを採用した投票方式です。これにより、少数意見を無視することなく公平な意思決定を可能にします。
-
-**特徴**
-* 投票の公平性を強化し、少数意見が無視されることを防止
-* コスト増加により一部の投票者による支配を防止
-* スマートコントラクトや投票プラットフォームを技術インフラとして活用可能
+**Required Resources**
+* Voting platform
+  * Highly transparent tools such as Snapshot, Tally
+* Governance operation support
+  * Teams and tools for managing voting processes and ensuring transparency
+* Education and dissemination costs
+  * Materials and guidelines for voters to understand the mechanism
 
 ***
 
-#### メリット
+#### Overview
 
-* 少数意見の反映：投票数に応じてコストが増加するため、個々の投票が慎重に行われ、少数意見が尊重される
-* 透明性の向上：投票プロセスと結果が公開され、全参加者が結果を検証可能
-* 公平な意思決定：大規模な意見が優先されるリスクを軽減し、多様な視点を意思決定に反映
+Quadratic Voting (QV) is a voting method that adopts a mechanism where costs increase proportionally to the number of votes when voters purchase votes. This enables fair decision-making without ignoring minority opinions.
 
-***
-
-#### 成功事例
-
-**民主党予備選プロジェクト**
-* 背景：米国の一部の州で、住民が政策提案の優先順位を決定するためにQVを採用
-* 結果：参加者が複数の政策候補に票を配分できるようにすることで、少数意見が適切に反映され、公平な政策決定につながった
-
-**コロラド州議会の意思決定**
-* 背景：コロラド州議会が特定の予算配分やプロジェクト選定にQVを実験的に導入
-* 結果：議員間の議論に基づき、少数意見を考慮した意思決定を実現
+**Features**
+* Strengthens voting fairness and prevents minority opinions from being ignored
+* Prevents domination by a subset of voters through cost increases
+* Can utilize smart contracts and voting platforms as technical infrastructure
 
 ***
 
-#### 実装手順
+#### Benefits
 
-1. 目標設定とルール設計
-   * QVの目的と範囲を明確化
-   * 投票コスト増加のアルゴリズムを設計
-
-2. 投票プラットフォームの実装
-   * 例：Snapshot、Tally
-
-3. 投票者の教育とエンゲージメント
-   * 投票システムとメカニズムを説明するワークショップや資料を提供
-
-4. 投票と集計
-   * 透明性を確保しながらリアルタイムで結果を公開
-
-5. フィードバックと結果の反映
-   * 投票結果に基づいて優先順位や資金配分を決定
+* Reflection of Minority Opinions: As costs increase with the number of votes, individual votes are cast carefully, and minority opinions are respected
+* Enhanced Transparency: Voting processes and results are public, and all participants can verify the results
+* Fair Decision-Making: Reduces the risk of large-scale opinions being prioritized and reflects diverse perspectives in decision-making
 
 ***
 
-#### 成功のポイント
+#### Success Stories
 
-* 透明性の確保：投票プロセスが誰でも検証可能であること
-* 少数意見の重要性の共有：教育活動を通じて少数意見の価値を理解してもらう
-* 使いやすい投票システムの実装：投票者が簡単に参加できるインターフェースを提供
+**Democratic Primary Project**
+* Background: QV was adopted in some U.S. states for residents to determine policy proposal priorities
+* Results: By allowing participants to allocate votes across multiple policy candidates, minority opinions were appropriately reflected, leading to fair policy decisions
+
+**Colorado State House Decision-Making**
+* Background: The Colorado State Legislature experimentally introduced QV for specific budget allocations and project selections
+* Results: Achieved decision-making that considered minority opinions based on discussions among legislators
 
 ***
 
-#### ツール
+#### Implementation Steps
+
+1. Goal Setting and Rule Design
+   * Clarify QV objectives and scope
+   * Design algorithm for vote cost increases
+
+2. Voting Platform Implementation
+   * Example: Snapshot, Tally
+
+3. Voter Education and Engagement
+   * Provide workshops and materials explaining the voting system and mechanism
+
+4. Voting and Tallying
+   * Publish results in real-time while ensuring transparency
+
+5. Feedback and Reflection of Results
+   * Determine priorities and fund allocation based on voting results
+
+***
+
+#### Keys to Success
+
+* Ensuring Transparency: Voting process should be verifiable by anyone
+* Sharing the Importance of Minority Opinions: Help understand the value of minority opinions through educational activities
+* Implementing User-Friendly Voting Systems: Provide interfaces that allow voters to participate easily
+
+***
+
+#### Tools
 
 * Snapshot
-  * 分散型ガバナンスのための投票プラットフォーム
+  * Voting platform for decentralized governance
 * Tally
-  * QVを含む様々な投票形式をサポートするオープンソースツール
+  * Open-source tool supporting various voting formats including QV
 * QuadraticVote
-  * QV専用のアルゴリズムを実装したプラットフォーム
+  * Platform implementing QV-specific algorithms
 
 ***
 
-#### 社会課題解決のためのローカライズポイント
+#### Localization Points for Social Issue Resolution
 
-**ステークホルダーベースの投票**
-* クアドラティックボーティングでは、必ずしも資金提供者が投票者である必要はありません。地域住民や課題における利害関係者の立場で投票資格を設定することが可能です。例えば、地域の課題では、住民や影響を受けるグループが直接意思決定に参加できます
-* この形式では、投票資格の確認と対象参加者の適切な特定が重要になります
+**Stakeholder-Based Voting**
+* In Quadratic Voting, voters don't necessarily need to be funders. Voting eligibility can be set based on local residency or stakeholder status in the issue. For example, in local issues, residents and affected groups can be directly involved in decision-making
+* In this format, verification of voting eligibility and appropriate identification of target participants becomes important
 
-**文化的な適応**
-* 日本の市民参加や意思決定プロセスに合った運用設計を検討します。例えば、地域住民への認知度を高めるための投票説明会の実施や、結果を共有する透明性の高い報告システムの導入などが効果的です
+**Cultural Adaptation**
+* Consider operational design that fits with Japanese citizen participation and decision-making processes. For example, implementing voting explanation meetings to raise awareness among local residents and transparent reporting systems for sharing results can be effective
 
-**教育と理解の促進**
-* QVを初めて導入する際は、投票者への説明やシミュレーションを実施し、透明性と信頼性を確保します 
+**Promoting Education and Understanding**
+* When introducing QV for the first time, ensure transparency and reliability by conducting explanations and simulations for voters 

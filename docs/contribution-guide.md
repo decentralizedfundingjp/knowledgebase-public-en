@@ -1,65 +1,65 @@
 ---
-title: ナレッジベースの編纂にご協力いただける方へ
+title: For Contributors
 sidebar_position: 100
-description: ナレッジベースへの貢献方法について説明します
+description: Explains how to contribute to the knowledge base
 ---
 
-# ナレッジベースの編纂にご協力いただける方へ
+# For Contributors
 
-このナレッジベースは、分散型資金調達に関する情報を集約し、誰もがアクセスできる形で提供することを目的としています。皆様のご協力をお待ちしています。
+This knowledge base aims to aggregate information about Decentralized Funding and provide it in an accessible format for everyone. We welcome your contributions.
 
-## 編集方法
+## How to Edit
 
-### 基本的な編集の流れ
+### Basic Editing Process
 
-1. **GitHubアカウントの作成**
-   - まだGitHubアカウントをお持ちでない方は、[GitHub](https://github.com)でアカウントを作成してください。
+1. **Create a GitHub Account**
+   - If you don't have a GitHub account yet, please create one at [GitHub](https://github.com).
 
-2. **ページの編集**
-   - 各ページの下部にある「このページを編集」リンクをクリックします。
-   - GitHubのエディタが開きます。
-   - 必要な修正を加えます。
-   - 画面下部の「Propose changes」セクションで：
-     - 変更内容の説明を入力します
-     - 「Propose changes」ボタンをクリックします
-   - 自動的にフォークとプルリクエストの作成画面に移動します。
-   - プルリクエストの内容を確認し、「Create pull request」をクリックします。
+2. **Edit a Page**
+   - Click the "Edit this page" link at the bottom of each page.
+   - The GitHub editor will open.
+   - Make the necessary changes.
+   - In the "Propose changes" section at the bottom:
+     - Enter a description of your changes
+     - Click the "Propose changes" button
+   - You will be automatically redirected to the fork and pull request creation screen.
+   - Review the pull request content and click "Create pull request."
 
-この方法で提案された変更は、プロジェクトのメンテナーによってレビューされ、承認後にマージされます。
+Changes proposed in this way will be reviewed by the project maintainers and merged upon approval.
 
-### 大規模な変更の場合
+### For Major Changes
 
-複数のファイルを編集したり、新しいページを追加したりする場合は、以下の手順をお勧めします：
+For editing multiple files or adding new pages, we recommend the following process:
 
-1. **リポジトリのフォーク**
-   - [knowledgebase-publicリポジトリ](https://github.com/decentralizedfundingjp/knowledgebase-public)にアクセスし、「Fork」ボタンをクリックして、ご自身のアカウントにリポジトリをコピーします。
+1. **Fork the Repository**
+   - Visit the [knowledgebase-public repository](https://github.com/decentralizedfundingjp/knowledgebase-public) and click the "Fork" button to copy the repository to your account.
 
-2. **変更の作成**
-   - フォークしたリポジトリで必要な変更を加えます。
-   - ローカル環境でテストすることもできます。
+2. **Create Changes**
+   - Make the necessary changes in your forked repository.
+   - You can also test locally.
 
-3. **プルリクエストの作成**
-   - 変更が完了したら、「Pull request」を作成します。
-   - 変更内容を説明し、レビューを依頼します。
+3. **Create a Pull Request**
+   - Once your changes are complete, create a "Pull request."
+   - Explain your changes and request a review.
 
-## 編集ガイドライン
+## Editing Guidelines
 
-- **Markdown形式**で記述してください
-- 画像は`static/img`ディレクトリに配置し、適切なサブディレクトリを作成してください
-- 日本語で記述してください
-- 専門用語は初出時に説明を加えてください
-- 出典や参考資料は可能な限り明記してください
+- Write in **Markdown format**
+- Place images in the `static/img` directory and create appropriate subdirectories
+- Write in English
+- Explain technical terms upon first use
+- Cite sources and references whenever possible
 
-## 推奨される編集内容
+## Recommended Types of Contributions
 
-- 誤字・脱字の修正
-- 説明の追加や改善
-- 新しい事例の追加
-- 図表の追加や改善
-- 参考資料の追加
+- Fixing typos and errors
+- Adding or improving explanations
+- Adding new case studies
+- Adding or improving diagrams and charts
+- Adding references
 
-## 質問や提案
+## Questions and Suggestions
 
-編集に関する質問や提案がある場合は、[GitHub Issues](https://github.com/decentralizedfundingjp/knowledgebase-public/issues)に投稿してください。
+If you have any questions or suggestions about editing, please post them in [GitHub Issues](https://github.com/decentralizedfundingjp/knowledgebase-public/issues).
 
-皆様のご協力を心よりお待ちしています。 
+We look forward to your contributions. 

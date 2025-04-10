@@ -1,26 +1,26 @@
 ---
-title: ケーススタディ集について
-sidebar_label: 概要
+title: About Case Studies
+sidebar_label: Overview
 ---
 
-# ケーススタディ集について
+# About Case Studies
 
-ソーシャルセクターでの分散/参加型資金分配においてベンチマークとなりうるケーススタディをまとめています。
+This collection compiles case studies that can serve as benchmarks for decentralized/participatory fund distribution in the social sector.
 
-有志による執筆であり、記載内容が正確でない場合があります。記載に誤りがある場合は、各ページのGithubリンクよりコメントをお願いいたします。
+These are written by volunteers, and the content may not be entirely accurate. If you find any errors, please leave comments through the Github links on each page.
 
-新しくケーススタディを追加する場合は、以下の手順に従ってください：
+To add a new case study, please follow these steps:
 
-1. 既存のケーススタディのフォーマットを参考に、新しいMarkdownファイルを作成
-2. ファイル名は英語の小文字とハイフンを使用（例: `project-name.md`）
-3. 必須セクション:
-   * 概要
-   * 実施年
-   * 運営者
-   * 対象分野
-   * 目的
-   * 成果
-   * 運用プロセス
-   * 成果と特徴
-   * 日本社会への応用可能性
-4. Pull Requestを作成し、レビューを依頼 
+1. Create a new Markdown file following the format of existing case studies
+2. Use lowercase English letters and hyphens for the filename (e.g., `project-name.md`)
+3. Required sections:
+   * Overview
+   * Year of Implementation
+   * Operator
+   * Target Areas
+   * Objectives
+   * Results
+   * Operational Process
+   * Results and Characteristics
+   * Potential Applications in Japanese Society
+4. Create a Pull Request and request a review 
